@@ -1,0 +1,918 @@
+anio,distrito_num,distrito_nombre,barrio_num,barrio_nombre,codigo_barrio,tasa_paro
+2017,1,Centro,1,Palacio,011,8.2
+2017,1,Centro,2,Embajadores,012,9.05
+2017,1,Centro,3,Cortes,013,7.59
+2017,1,Centro,4,Justicia,014,6.62
+2017,1,Centro,5,Universidad,015,7.21
+2017,1,Centro,6,Sol,016,7.93
+2017,2,Arganzuela,1,Imperial,021,7.11
+2017,2,Arganzuela,2,Acacias,022,6.75
+2017,2,Arganzuela,3,Chopera,023,8.09
+2017,2,Arganzuela,4,Legazpi,024,5.08
+2017,2,Arganzuela,5,Delicias,025,6.85
+2017,2,Arganzuela,6,Palos de la Frontera,026,7.59
+2017,2,Arganzuela,7,Atocha,027,8.41
+2017,3,Retiro,1,Pacífico,031,6.16
+2017,3,Retiro,2,Adelfas,032,6.76
+2017,3,Retiro,3,Estrella,033,5.61
+2017,3,Retiro,4,Ibiza,034,6
+2017,3,Retiro,5,Los Jerónimos,035,4.16
+2017,3,Retiro,6,Niño Jesús,036,4.35
+2017,4,Salamanca,1,Recoletos,041,3.9
+2017,4,Salamanca,2,Goya,042,5.81
+2017,4,Salamanca,3,Fuente del Berro,043,6.36
+2017,4,Salamanca,4,Guindalera,044,6.16
+2017,4,Salamanca,5,Lista,045,5.32
+2017,4,Salamanca,6,Castellana,046,3.79
+2017,5,Chamartin,1,El Viso,051,3.24
+2017,5,Chamartin,2,Prosperidad,052,6.85
+2017,5,Chamartin,3,Ciudad Jardín,053,6.61
+2017,5,Chamartin,4,Hispanoamérica,054,4.85
+2017,5,Chamartin,5,Nueva España,055,4.15
+2017,5,Chamartin,6,Castilla,056,5.26
+2017,6,Tetuan,1,Bellas Vistas,061,7.81
+2017,6,Tetuan,2,Cuatro Caminos,062,6.25
+2017,6,Tetuan,3,Castillejos,063,6.43
+2017,6,Tetuan,4,Almenara,064,11.4
+2017,6,Tetuan,5,Valdeacederas,065,8.58
+2017,6,Tetuan,6,Berruguete,066,8.33
+2017,7,Chamberi,1,Gaztambide,071,6.42
+2017,7,Chamberi,2,Arapiles,072,6.24
+2017,7,Chamberi,3,Trafalgar,073,6.31
+2017,7,Chamberi,4,Almagro,074,4.58
+2017,7,Chamberi,5,Ríos Rosas,075,5.37
+2017,7,Chamberi,6,Vallehermoso,076,4.81
+2017,8,Fuencarral-El Pardo,1,El Pardo,081,7.01
+2017,8,Fuencarral-El Pardo,2,Fuentelarreina,082,3.78
+2017,8,Fuencarral-El Pardo,3,Peñagrande,083,6.97
+2017,8,Fuencarral-El Pardo,4,Pilar,084,7.57
+2017,8,Fuencarral-El Pardo,5,La Paz,085,5.51
+2017,8,Fuencarral-El Pardo,6,Valverde,086,7.07
+2017,8,Fuencarral-El Pardo,7,Mirasierra,087,4.22
+2017,8,Fuencarral-El Pardo,8,El Goloso,088,3.87
+2017,9,Moncloa-Aravaca,1,Casa de Campo,091,7.82
+2017,9,Moncloa-Aravaca,2,Argüelles,092,5.55
+2017,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,4.9
+2017,9,Moncloa-Aravaca,4,Valdezarza,094,7.68
+2017,9,Moncloa-Aravaca,5,Valdemarín,095,3.4
+2017,9,Moncloa-Aravaca,6,El Plantío,096,3.2
+2017,9,Moncloa-Aravaca,7,Aravaca,097,4.01
+2017,10,Latina,1,Los Cármenes,101,11.52
+2017,10,Latina,2,Puerta del Angel,102,10.08
+2017,10,Latina,3,Lucero,103,9.86
+2017,10,Latina,4,Aluche,104,8.88
+2017,10,Latina,5,Campamento,105,8.26
+2017,10,Latina,6,Cuatro Vientos,106,8.17
+2017,10,Latina,7,Águilas,107,9.06
+2017,11,Carabanchel,1,Comillas,111,9.59
+2017,11,Carabanchel,2,Opañel,112,9.12
+2017,11,Carabanchel,3,San Isidro,113,12.15
+2017,11,Carabanchel,4,Vista Alegre,114,10.11
+2017,11,Carabanchel,5,Puerta Bonita,115,11.28
+2017,11,Carabanchel,6,Buenavista,116,8.68
+2017,11,Carabanchel,7,Abrantes,117,10.26
+2017,12,Usera,1,Orcasitas,121,11.04
+2017,12,Usera,2,Orcasur,122,13.1
+2017,12,Usera,3,San Fermín,123,11.27
+2017,12,Usera,4,Almendrales,124,9.95
+2017,12,Usera,5,Moscardó,125,9.21
+2017,12,Usera,6,Zofío,126,10.37
+2017,12,Usera,7,Pradolongo,127,9.71
+2017,13,Puente de Vallecas,1,Entrevías,131,14.22
+2017,13,Puente de Vallecas,2,San Diego,132,12.17
+2017,13,Puente de Vallecas,3,Palomeras Bajas,133,10.06
+2017,13,Puente de Vallecas,4,Palomeras Sureste,134,11.18
+2017,13,Puente de Vallecas,5,Portazgo,135,12.79
+2017,13,Puente de Vallecas,6,Numancia,136,12.12
+2017,14,Moratalaz,1,Pavones,141,9.47
+2017,14,Moratalaz,2,Horcajo,142,8.58
+2017,14,Moratalaz,3,Marroquina,143,7.89
+2017,14,Moratalaz,4,Media Legua,144,10.1
+2017,14,Moratalaz,5,Fontarrón,145,10.58
+2017,14,Moratalaz,6,Vinateros,146,8.76
+2017,15,Ciudad Lineal,1,Ventas,151,9.07
+2017,15,Ciudad Lineal,2,Pueblo Nuevo,152,8.77
+2017,15,Ciudad Lineal,3,Quintana,153,8.97
+2017,15,Ciudad Lineal,4,La Concepción,154,8
+2017,15,Ciudad Lineal,5,San Pascual,155,7.6
+2017,15,Ciudad Lineal,6,San Juan Bautista,156,5.73
+2017,15,Ciudad Lineal,7,Colina,157,6.64
+2017,15,Ciudad Lineal,8,Atalaya,158,4.93
+2017,15,Ciudad Lineal,9,Costillares,159,5.45
+2017,16,Hortaleza,1,Palomas,161,4.12
+2017,16,Hortaleza,2,Piovera,162,3.84
+2017,16,Hortaleza,3,Canillas,163,7.6
+2017,16,Hortaleza,4,Pinar del Rey,164,9.12
+2017,16,Hortaleza,5,Apóstol Santiago,165,9.06
+2017,16,Hortaleza,6,Valdefuentes,166,5.49
+2017,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,12.6
+2017,17,Villaverde,2,San Cristóbal,172,15.04
+2017,17,Villaverde,3,Butarque,173,9.28
+2017,17,Villaverde,4,Los Rosales,174,10.37
+2017,17,Villaverde,5,Ángeles,175,10.88
+2017,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,12.4
+2017,18,Villa de Vallecas,2,Santa Eugenia,182,9.18
+2017,18,Villa de Vallecas,3,Ensanche de Vallecas,183,8.08
+2017,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,12.27
+2017,19,Vicalvaro,2,Valdebernardo,192,9.25
+2017,19,Vicalvaro,3,Valderrivas,193,5.63
+2017,19,Vicalvaro,4,El Cañaveral,194,6.53
+2017,20,San Blas-Canillejas,1,Simancas,201,9.94
+2017,20,San Blas-Canillejas,2,Hellín,202,12.89
+2017,20,San Blas-Canillejas,3,Amposta,203,13.34
+2017,20,San Blas-Canillejas,4,Arcos,204,10.35
+2017,20,San Blas-Canillejas,5,Rosas,205,6.23
+2017,20,San Blas-Canillejas,6,Rejas,206,6.67
+2017,20,San Blas-Canillejas,7,Canillejas,207,9.22
+2017,20,San Blas-Canillejas,8,El Salvador,208,6.45
+2017,21,Barajas,1,Alameda de Osuna,211,5.71
+2017,21,Barajas,2,Aeropuerto,212,9.11
+2017,21,Barajas,3,Casco Histórico de Barajas,213,8.97
+2017,21,Barajas,4,Timón,214,6.22
+2017,21,Barajas,5,Corralejos,215,4.33
+2018,1,Centro,1,Palacio,011,7.69
+2018,1,Centro,2,Embajadores,012,7.93
+2018,1,Centro,3,Cortes,013,6.45
+2018,1,Centro,4,Justicia,014,6.05
+2018,1,Centro,5,Universidad,015,6.56
+2018,1,Centro,6,Sol,016,6.69
+2018,2,Arganzuela,1,Imperial,021,6.53
+2018,2,Arganzuela,2,Acacias,022,6.23
+2018,2,Arganzuela,3,Chopera,023,7.25
+2018,2,Arganzuela,4,Legazpi,024,4.48
+2018,2,Arganzuela,5,Delicias,025,5.98
+2018,2,Arganzuela,6,Palos de la Frontera,026,6.58
+2018,2,Arganzuela,7,Atocha,027,8.25
+2018,3,Retiro,1,Pacífico,031,5.75
+2018,3,Retiro,2,Adelfas,032,6.24
+2018,3,Retiro,3,Estrella,033,5.14
+2018,3,Retiro,4,Ibiza,034,5.79
+2018,3,Retiro,5,Los Jerónimos,035,3.71
+2018,3,Retiro,6,Niño Jesús,036,4.37
+2018,4,Salamanca,1,Recoletos,041,3.72
+2018,4,Salamanca,2,Goya,042,4.78
+2018,4,Salamanca,3,Fuente del Berro,043,5.86
+2018,4,Salamanca,4,Guindalera,044,5.54
+2018,4,Salamanca,5,Lista,045,4.65
+2018,4,Salamanca,6,Castellana,046,3.42
+2018,5,Chamartin,1,El Viso,051,3.15
+2018,5,Chamartin,2,Prosperidad,052,5.98
+2018,5,Chamartin,3,Ciudad Jardín,053,5.64
+2018,5,Chamartin,4,Hispanoamérica,054,4.54
+2018,5,Chamartin,5,Nueva España,055,3.93
+2018,5,Chamartin,6,Castilla,056,4.92
+2018,6,Tetuan,1,Bellas Vistas,061,6.73
+2018,6,Tetuan,2,Cuatro Caminos,062,5.79
+2018,6,Tetuan,3,Castillejos,063,5.55
+2018,6,Tetuan,4,Almenara,064,10.17
+2018,6,Tetuan,5,Valdeacederas,065,7.32
+2018,6,Tetuan,6,Berruguete,066,7.1
+2018,7,Chamberi,1,Gaztambide,071,5.91
+2018,7,Chamberi,2,Arapiles,072,5.46
+2018,7,Chamberi,3,Trafalgar,073,5.6
+2018,7,Chamberi,4,Almagro,074,4.31
+2018,7,Chamberi,5,Ríos Rosas,075,4.85
+2018,7,Chamberi,6,Vallehermoso,076,4.58
+2018,8,Fuencarral-El Pardo,1,El Pardo,081,6.22
+2018,8,Fuencarral-El Pardo,2,Fuentelarreina,082,3.27
+2018,8,Fuencarral-El Pardo,3,Peñagrande,083,6.41
+2018,8,Fuencarral-El Pardo,4,Pilar,084,6.74
+2018,8,Fuencarral-El Pardo,5,La Paz,085,4.78
+2018,8,Fuencarral-El Pardo,6,Valverde,086,6.26
+2018,8,Fuencarral-El Pardo,7,Mirasierra,087,4.11
+2018,8,Fuencarral-El Pardo,8,El Goloso,088,3.51
+2018,9,Moncloa-Aravaca,1,Casa de Campo,091,7.12
+2018,9,Moncloa-Aravaca,2,Argüelles,092,5.22
+2018,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,4.39
+2018,9,Moncloa-Aravaca,4,Valdezarza,094,7.02
+2018,9,Moncloa-Aravaca,5,Valdemarín,095,3.05
+2018,9,Moncloa-Aravaca,6,El Plantío,096,3.59
+2018,9,Moncloa-Aravaca,7,Aravaca,097,3.86
+2018,10,Latina,1,Los Cármenes,101,10.85
+2018,10,Latina,2,Puerta del Angel,102,8.99
+2018,10,Latina,3,Lucero,103,8.84
+2018,10,Latina,4,Aluche,104,8.09
+2018,10,Latina,5,Campamento,105,7.28
+2018,10,Latina,6,Cuatro Vientos,106,7.33
+2018,10,Latina,7,Águilas,107,8.11
+2018,11,Carabanchel,1,Comillas,111,9.16
+2018,11,Carabanchel,2,Opañel,112,8.34
+2018,11,Carabanchel,3,San Isidro,113,11.21
+2018,11,Carabanchel,4,Vista Alegre,114,8.79
+2018,11,Carabanchel,5,Puerta Bonita,115,10.21
+2018,11,Carabanchel,6,Buenavista,116,7.84
+2018,11,Carabanchel,7,Abrantes,117,9.43
+2018,12,Usera,1,Orcasitas,121,10.12
+2018,12,Usera,2,Orcasur,122,12.5
+2018,12,Usera,3,San Fermín,123,9.94
+2018,12,Usera,4,Almendrales,124,9.32
+2018,12,Usera,5,Moscardó,125,8.34
+2018,12,Usera,6,Zofío,126,9.17
+2018,12,Usera,7,Pradolongo,127,8.57
+2018,13,Puente de Vallecas,1,Entrevías,131,13.04
+2018,13,Puente de Vallecas,2,San Diego,132,10.83
+2018,13,Puente de Vallecas,3,Palomeras Bajas,133,9.31
+2018,13,Puente de Vallecas,4,Palomeras Sureste,134,10.2
+2018,13,Puente de Vallecas,5,Portazgo,135,11.64
+2018,13,Puente de Vallecas,6,Numancia,136,11.11
+2018,14,Moratalaz,1,Pavones,141,9.31
+2018,14,Moratalaz,2,Horcajo,142,7.81
+2018,14,Moratalaz,3,Marroquina,143,7.23
+2018,14,Moratalaz,4,Media Legua,144,9
+2018,14,Moratalaz,5,Fontarrón,145,9.43
+2018,14,Moratalaz,6,Vinateros,146,7.97
+2018,15,Ciudad Lineal,1,Ventas,151,8.21
+2018,15,Ciudad Lineal,2,Pueblo Nuevo,152,7.57
+2018,15,Ciudad Lineal,3,Quintana,153,7.68
+2018,15,Ciudad Lineal,4,La Concepción,154,7.25
+2018,15,Ciudad Lineal,5,San Pascual,155,7
+2018,15,Ciudad Lineal,6,San Juan Bautista,156,4.86
+2018,15,Ciudad Lineal,7,Colina,157,5.92
+2018,15,Ciudad Lineal,8,Atalaya,158,3.61
+2018,15,Ciudad Lineal,9,Costillares,159,5.14
+2018,16,Hortaleza,1,Palomas,161,3.82
+2018,16,Hortaleza,2,Piovera,162,3.52
+2018,16,Hortaleza,3,Canillas,163,6.71
+2018,16,Hortaleza,4,Pinar del Rey,164,8.15
+2018,16,Hortaleza,5,Apóstol Santiago,165,7.71
+2018,16,Hortaleza,6,Valdefuentes,166,4.77
+2018,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,11.91
+2018,17,Villaverde,2,San Cristóbal,172,13.88
+2018,17,Villaverde,3,Butarque,173,8.25
+2018,17,Villaverde,4,Los Rosales,174,9.1
+2018,17,Villaverde,5,Ángeles,175,9.91
+2018,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,11.64
+2018,18,Villa de Vallecas,2,Santa Eugenia,182,8.75
+2018,18,Villa de Vallecas,3,Ensanche de Vallecas,183,7.19
+2018,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,11.04
+2018,19,Vicalvaro,2,Valdebernardo,192,8.37
+2018,19,Vicalvaro,3,Valderrivas,193,5.32
+2018,19,Vicalvaro,4,El Cañaveral,194,5.29
+2018,20,San Blas-Canillejas,1,Simancas,201,8.53
+2018,20,San Blas-Canillejas,2,Hellín,202,11.45
+2018,20,San Blas-Canillejas,3,Amposta,203,13.11
+2018,20,San Blas-Canillejas,4,Arcos,204,9.39
+2018,20,San Blas-Canillejas,5,Rosas,205,5.35
+2018,20,San Blas-Canillejas,6,Rejas,206,5.76
+2018,20,San Blas-Canillejas,7,Canillejas,207,8.33
+2018,20,San Blas-Canillejas,8,El Salvador,208,6.05
+2018,21,Barajas,1,Alameda de Osuna,211,4.88
+2018,21,Barajas,2,Aeropuerto,212,7.95
+2018,21,Barajas,3,Casco Histórico de Barajas,213,7.62
+2018,21,Barajas,4,Timón,214,5.87
+2018,21,Barajas,5,Corralejos,215,3.68
+2019,1,Centro,1,Palacio,011,7.24
+2019,1,Centro,2,Embajadores,012,7.56
+2019,1,Centro,3,Cortes,013,6.73
+2019,1,Centro,4,Justicia,014,5.93
+2019,1,Centro,5,Universidad,015,6.37
+2019,1,Centro,6,Sol,016,6.38
+2019,2,Arganzuela,1,Imperial,021,6.22
+2019,2,Arganzuela,2,Acacias,022,6.14
+2019,2,Arganzuela,3,Chopera,023,7.18
+2019,2,Arganzuela,4,Legazpi,024,4.72
+2019,2,Arganzuela,5,Delicias,025,5.83
+2019,2,Arganzuela,6,Palos de la Frontera,026,6.92
+2019,2,Arganzuela,7,Atocha,027,7.55
+2019,3,Retiro,1,Pacífico,031,6
+2019,3,Retiro,2,Adelfas,032,5.84
+2019,3,Retiro,3,Estrella,033,5.11
+2019,3,Retiro,4,Ibiza,034,5.62
+2019,3,Retiro,5,Los Jerónimos,035,3.83
+2019,3,Retiro,6,Niño Jesús,036,3.99
+2019,4,Salamanca,1,Recoletos,041,3.22
+2019,4,Salamanca,2,Goya,042,4.67
+2019,4,Salamanca,3,Fuente del Berro,043,6.07
+2019,4,Salamanca,4,Guindalera,044,5.5
+2019,4,Salamanca,5,Lista,045,4.73
+2019,4,Salamanca,6,Castellana,046,3.39
+2019,5,Chamartin,1,El Viso,051,3.05
+2019,5,Chamartin,2,Prosperidad,052,5.83
+2019,5,Chamartin,3,Ciudad Jardín,053,5.88
+2019,5,Chamartin,4,Hispanoamérica,054,4.43
+2019,5,Chamartin,5,Nueva España,055,3.65
+2019,5,Chamartin,6,Castilla,056,5
+2019,6,Tetuan,1,Bellas Vistas,061,6.85
+2019,6,Tetuan,2,Cuatro Caminos,062,5.49
+2019,6,Tetuan,3,Castillejos,063,5.36
+2019,6,Tetuan,4,Almenara,064,10.34
+2019,6,Tetuan,5,Valdeacederas,065,7.84
+2019,6,Tetuan,6,Berruguete,066,7.08
+2019,7,Chamberi,1,Gaztambide,071,5.57
+2019,7,Chamberi,2,Arapiles,072,5.27
+2019,7,Chamberi,3,Trafalgar,073,5.37
+2019,7,Chamberi,4,Almagro,074,4.15
+2019,7,Chamberi,5,Ríos Rosas,075,5.07
+2019,7,Chamberi,6,Vallehermoso,076,4.45
+2019,8,Fuencarral-El Pardo,1,El Pardo,081,6.29
+2019,8,Fuencarral-El Pardo,2,Fuentelarreina,082,4.1
+2019,8,Fuencarral-El Pardo,3,Peñagrande,083,6.36
+2019,8,Fuencarral-El Pardo,4,Pilar,084,6.88
+2019,8,Fuencarral-El Pardo,5,La Paz,085,4.93
+2019,8,Fuencarral-El Pardo,6,Valverde,086,6.17
+2019,8,Fuencarral-El Pardo,7,Mirasierra,087,3.93
+2019,8,Fuencarral-El Pardo,8,El Goloso,088,3.69
+2019,9,Moncloa-Aravaca,1,Casa de Campo,091,6.78
+2019,9,Moncloa-Aravaca,2,Argüelles,092,4.8
+2019,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,4.1
+2019,9,Moncloa-Aravaca,4,Valdezarza,094,7.22
+2019,9,Moncloa-Aravaca,5,Valdemarín,095,3.24
+2019,9,Moncloa-Aravaca,6,El Plantío,096,3.1
+2019,9,Moncloa-Aravaca,7,Aravaca,097,3.97
+2019,10,Latina,1,Los Cármenes,101,10.57
+2019,10,Latina,2,Puerta del Angel,102,8.86
+2019,10,Latina,3,Lucero,103,8.32
+2019,10,Latina,4,Aluche,104,7.84
+2019,10,Latina,5,Campamento,105,6.83
+2019,10,Latina,6,Cuatro Vientos,106,7.55
+2019,10,Latina,7,Águilas,107,7.92
+2019,11,Carabanchel,1,Comillas,111,8.71
+2019,11,Carabanchel,2,Opañel,112,8.12
+2019,11,Carabanchel,3,San Isidro,113,10.9
+2019,11,Carabanchel,4,Vista Alegre,114,8.54
+2019,11,Carabanchel,5,Puerta Bonita,115,9.83
+2019,11,Carabanchel,6,Buenavista,116,7.56
+2019,11,Carabanchel,7,Abrantes,117,8.96
+2019,12,Usera,1,Orcasitas,121,9.85
+2019,12,Usera,2,Orcasur,122,11.86
+2019,12,Usera,3,San Fermín,123,9.68
+2019,12,Usera,4,Almendrales,124,9.03
+2019,12,Usera,5,Moscardó,125,8.16
+2019,12,Usera,6,Zofío,126,9.03
+2019,12,Usera,7,Pradolongo,127,8.73
+2019,13,Puente de Vallecas,1,Entrevías,131,12.07
+2019,13,Puente de Vallecas,2,San Diego,132,10.11
+2019,13,Puente de Vallecas,3,Palomeras Bajas,133,9.14
+2019,13,Puente de Vallecas,4,Palomeras Sureste,134,9.66
+2019,13,Puente de Vallecas,5,Portazgo,135,10.83
+2019,13,Puente de Vallecas,6,Numancia,136,9.84
+2019,14,Moratalaz,1,Pavones,141,9.28
+2019,14,Moratalaz,2,Horcajo,142,7.68
+2019,14,Moratalaz,3,Marroquina,143,7.05
+2019,14,Moratalaz,4,Media Legua,144,8.74
+2019,14,Moratalaz,5,Fontarrón,145,8.97
+2019,14,Moratalaz,6,Vinateros,146,7.62
+2019,15,Ciudad Lineal,1,Ventas,151,8.05
+2019,15,Ciudad Lineal,2,Pueblo Nuevo,152,7.66
+2019,15,Ciudad Lineal,3,Quintana,153,7.34
+2019,15,Ciudad Lineal,4,La Concepción,154,7.08
+2019,15,Ciudad Lineal,5,San Pascual,155,6.78
+2019,15,Ciudad Lineal,6,San Juan Bautista,156,5.06
+2019,15,Ciudad Lineal,7,Colina,157,5.79
+2019,15,Ciudad Lineal,8,Atalaya,158,4.45
+2019,15,Ciudad Lineal,9,Costillares,159,5.18
+2019,16,Hortaleza,1,Palomas,161,4.13
+2019,16,Hortaleza,2,Piovera,162,3.47
+2019,16,Hortaleza,3,Canillas,163,6.78
+2019,16,Hortaleza,4,Pinar del Rey,164,8.11
+2019,16,Hortaleza,5,Apóstol Santiago,165,7.94
+2019,16,Hortaleza,6,Valdefuentes,166,4.73
+2019,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,10.96
+2019,17,Villaverde,2,San Cristóbal,172,12.7
+2019,17,Villaverde,3,Butarque,173,7.91
+2019,17,Villaverde,4,Los Rosales,174,8.9
+2019,17,Villaverde,5,Ángeles,175,9.74
+2019,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,11.71
+2019,18,Villa de Vallecas,2,Santa Eugenia,182,8.7
+2019,18,Villa de Vallecas,3,Ensanche de Vallecas,183,6.8
+2019,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,10.48
+2019,19,Vicalvaro,2,Valdebernardo,192,9.04
+2019,19,Vicalvaro,3,Valderrivas,193,5.42
+2019,19,Vicalvaro,4,El Cañaveral,194,4.49
+2019,20,San Blas-Canillejas,1,Simancas,201,7.99
+2019,20,San Blas-Canillejas,2,Hellín,202,11.38
+2019,20,San Blas-Canillejas,3,Amposta,203,12.35
+2019,20,San Blas-Canillejas,4,Arcos,204,9
+2019,20,San Blas-Canillejas,5,Rosas,205,5.45
+2019,20,San Blas-Canillejas,6,Rejas,206,5.49
+2019,20,San Blas-Canillejas,7,Canillejas,207,8.06
+2019,20,San Blas-Canillejas,8,El Salvador,208,5.73
+2019,21,Barajas,1,Alameda de Osuna,211,4.95
+2019,21,Barajas,2,Aeropuerto,212,7.28
+2019,21,Barajas,3,Casco Histórico de Barajas,213,7.33
+2019,21,Barajas,4,Timón,214,6.03
+2019,21,Barajas,5,Corralejos,215,4.15
+2020,1,Centro,1,Palacio,011,10.04
+2020,1,Centro,2,Embajadores,012,10.36
+2020,1,Centro,3,Cortes,013,8.06
+2020,1,Centro,4,Justicia,014,7.81
+2020,1,Centro,5,Universidad,015,8.89
+2020,1,Centro,6,Sol,016,8.74
+2020,2,Arganzuela,1,Imperial,021,7.81
+2020,2,Arganzuela,2,Acacias,022,7.83
+2020,2,Arganzuela,3,Chopera,023,9.95
+2020,2,Arganzuela,4,Legazpi,024,6.12
+2020,2,Arganzuela,5,Delicias,025,7.27
+2020,2,Arganzuela,6,Palos de la Frontera,026,8.66
+2020,2,Arganzuela,7,Atocha,027,7.71
+2020,3,Retiro,1,Pacífico,031,7.46
+2020,3,Retiro,2,Adelfas,032,7.22
+2020,3,Retiro,3,Estrella,033,5.81
+2020,3,Retiro,4,Ibiza,034,6.99
+2020,3,Retiro,5,Los Jerónimos,035,5.11
+2020,3,Retiro,6,Niño Jesús,036,5.24
+2020,4,Salamanca,1,Recoletos,041,4.23
+2020,4,Salamanca,2,Goya,042,6.16
+2020,4,Salamanca,3,Fuente del Berro,043,7.78
+2020,4,Salamanca,4,Guindalera,044,7.42
+2020,4,Salamanca,5,Lista,045,6.05
+2020,4,Salamanca,6,Castellana,046,4.34
+2020,5,Chamartin,1,El Viso,051,4.17
+2020,5,Chamartin,2,Prosperidad,052,7.99
+2020,5,Chamartin,3,Ciudad Jardín,053,8.07
+2020,5,Chamartin,4,Hispanoamérica,054,5.71
+2020,5,Chamartin,5,Nueva España,055,4.6
+2020,5,Chamartin,6,Castilla,056,6.36
+2020,6,Tetuan,1,Bellas Vistas,061,9.29
+2020,6,Tetuan,2,Cuatro Caminos,062,6.99
+2020,6,Tetuan,3,Castillejos,063,7.62
+2020,6,Tetuan,4,Almenara,064,12.59
+2020,6,Tetuan,5,Valdeacederas,065,10.14
+2020,6,Tetuan,6,Berruguete,066,9.35
+2020,7,Chamberi,1,Gaztambide,071,6.94
+2020,7,Chamberi,2,Arapiles,072,7.16
+2020,7,Chamberi,3,Trafalgar,073,7.39
+2020,7,Chamberi,4,Almagro,074,5.2
+2020,7,Chamberi,5,Ríos Rosas,075,6.49
+2020,7,Chamberi,6,Vallehermoso,076,5.74
+2020,8,Fuencarral-El Pardo,1,El Pardo,081,7.67
+2020,8,Fuencarral-El Pardo,2,Fuentelarreina,082,4.53
+2020,8,Fuencarral-El Pardo,3,Peñagrande,083,7.82
+2020,8,Fuencarral-El Pardo,4,Pilar,084,8.79
+2020,8,Fuencarral-El Pardo,5,La Paz,085,6.47
+2020,8,Fuencarral-El Pardo,6,Valverde,086,8.05
+2020,8,Fuencarral-El Pardo,7,Mirasierra,087,4.97
+2020,8,Fuencarral-El Pardo,8,El Goloso,088,4.53
+2020,9,Moncloa-Aravaca,1,Casa de Campo,091,8.43
+2020,9,Moncloa-Aravaca,2,Argüelles,092,6.69
+2020,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,5.64
+2020,9,Moncloa-Aravaca,4,Valdezarza,094,9.2
+2020,9,Moncloa-Aravaca,5,Valdemarín,095,3.62
+2020,9,Moncloa-Aravaca,6,El Plantío,096,3.78
+2020,9,Moncloa-Aravaca,7,Aravaca,097,4.98
+2020,10,Latina,1,Los Cármenes,101,13.77
+2020,10,Latina,2,Puerta del Angel,102,11.87
+2020,10,Latina,3,Lucero,103,11.17
+2020,10,Latina,4,Aluche,104,10.29
+2020,10,Latina,5,Campamento,105,9.43
+2020,10,Latina,6,Cuatro Vientos,106,9.3
+2020,10,Latina,7,Águilas,107,10
+2020,11,Carabanchel,1,Comillas,111,11.56
+2020,11,Carabanchel,2,Opañel,112,10.72
+2020,11,Carabanchel,3,San Isidro,113,14.23
+2020,11,Carabanchel,4,Vista Alegre,114,11.5
+2020,11,Carabanchel,5,Puerta Bonita,115,12.87
+2020,11,Carabanchel,6,Buenavista,116,9.53
+2020,11,Carabanchel,7,Abrantes,117,11.98
+2020,12,Usera,1,Orcasitas,121,12.67
+2020,12,Usera,2,Orcasur,122,15.53
+2020,12,Usera,3,San Fermín,123,12.82
+2020,12,Usera,4,Almendrales,124,12.08
+2020,12,Usera,5,Moscardó,125,11.59
+2020,12,Usera,6,Zofío,126,12.11
+2020,12,Usera,7,Pradolongo,127,11.91
+2020,13,Puente de Vallecas,1,Entrevías,131,15.66
+2020,13,Puente de Vallecas,2,San Diego,132,13.45
+2020,13,Puente de Vallecas,3,Palomeras Bajas,133,11.81
+2020,13,Puente de Vallecas,4,Palomeras Sureste,134,12.23
+2020,13,Puente de Vallecas,5,Portazgo,135,14.38
+2020,13,Puente de Vallecas,6,Numancia,136,13.29
+2020,14,Moratalaz,1,Pavones,141,11.72
+2020,14,Moratalaz,2,Horcajo,142,10.02
+2020,14,Moratalaz,3,Marroquina,143,8.73
+2020,14,Moratalaz,4,Media Legua,144,11.26
+2020,14,Moratalaz,5,Fontarrón,145,11.48
+2020,14,Moratalaz,6,Vinateros,146,10.2
+2020,15,Ciudad Lineal,1,Ventas,151,10.39
+2020,15,Ciudad Lineal,2,Pueblo Nuevo,152,10.21
+2020,15,Ciudad Lineal,3,Quintana,153,9.86
+2020,15,Ciudad Lineal,4,La Concepción,154,9.4
+2020,15,Ciudad Lineal,5,San Pascual,155,9.02
+2020,15,Ciudad Lineal,6,San Juan Bautista,156,6.98
+2020,15,Ciudad Lineal,7,Colina,157,7.73
+2020,15,Ciudad Lineal,8,Atalaya,158,6.35
+2020,15,Ciudad Lineal,9,Costillares,159,6.02
+2020,16,Hortaleza,1,Palomas,161,5.91
+2020,16,Hortaleza,2,Piovera,162,4.87
+2020,16,Hortaleza,3,Canillas,163,8.54
+2020,16,Hortaleza,4,Pinar del Rey,164,10.61
+2020,16,Hortaleza,5,Apóstol Santiago,165,9.87
+2020,16,Hortaleza,6,Valdefuentes,166,5.92
+2020,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,14.98
+2020,17,Villaverde,2,San Cristóbal,172,17.34
+2020,17,Villaverde,3,Butarque,173,10.38
+2020,17,Villaverde,4,Los Rosales,174,12.01
+2020,17,Villaverde,5,Ángeles,175,12.48
+2020,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,14.52
+2020,18,Villa de Vallecas,2,Santa Eugenia,182,10.69
+2020,18,Villa de Vallecas,3,Ensanche de Vallecas,183,8.61
+2020,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,13.35
+2020,19,Vicalvaro,2,Valdebernardo,192,10.87
+2020,19,Vicalvaro,3,Valderrivas,193,6.68
+2020,19,Vicalvaro,4,El Cañaveral,194,5.06
+2020,20,San Blas-Canillejas,1,Simancas,201,10.5
+2020,20,San Blas-Canillejas,2,Hellín,202,13.91
+2020,20,San Blas-Canillejas,3,Amposta,203,16.03
+2020,20,San Blas-Canillejas,4,Arcos,204,12.27
+2020,20,San Blas-Canillejas,5,Rosas,205,6.78
+2020,20,San Blas-Canillejas,6,Rejas,206,7.72
+2020,20,San Blas-Canillejas,7,Canillejas,207,10.69
+2020,20,San Blas-Canillejas,8,El Salvador,208,7.34
+2020,21,Barajas,1,Alameda de Osuna,211,6.65
+2020,21,Barajas,2,Aeropuerto,212,10.3
+2020,21,Barajas,3,Casco Histórico de Barajas,213,10.65
+2020,21,Barajas,4,Timón,214,7.44
+2020,21,Barajas,5,Corralejos,215,5.34
+2021,1,Centro,1,Palacio,011,8.12
+2021,1,Centro,2,Embajadores,012,8.27
+2021,1,Centro,3,Cortes,013,6.01
+2021,1,Centro,4,Justicia,014,6.39
+2021,1,Centro,5,Universidad,015,6.85
+2021,1,Centro,6,Sol,016,6.74
+2021,2,Arganzuela,1,Imperial,021,6.8
+2021,2,Arganzuela,2,Acacias,022,6.39
+2021,2,Arganzuela,3,Chopera,023,7.67
+2021,2,Arganzuela,4,Legazpi,024,4.77
+2021,2,Arganzuela,5,Delicias,025,5.94
+2021,2,Arganzuela,6,Palos de la Frontera,026,7.19
+2021,2,Arganzuela,7,Atocha,027,5.97
+2021,3,Retiro,1,Pacífico,031,5.98
+2021,3,Retiro,2,Adelfas,032,6.37
+2021,3,Retiro,3,Estrella,033,5.17
+2021,3,Retiro,4,Ibiza,034,5.8
+2021,3,Retiro,5,Los Jerónimos,035,4.43
+2021,3,Retiro,6,Niño Jesús,036,4.96
+2021,4,Salamanca,1,Recoletos,041,3.66
+2021,4,Salamanca,2,Goya,042,5.02
+2021,4,Salamanca,3,Fuente del Berro,043,6.54
+2021,4,Salamanca,4,Guindalera,044,5.93
+2021,4,Salamanca,5,Lista,045,4.79
+2021,4,Salamanca,6,Castellana,046,3.37
+2021,5,Chamartin,1,El Viso,051,3.44
+2021,5,Chamartin,2,Prosperidad,052,6.56
+2021,5,Chamartin,3,Ciudad Jardín,053,6.52
+2021,5,Chamartin,4,Hispanoamérica,054,5.1
+2021,5,Chamartin,5,Nueva España,055,4.23
+2021,5,Chamartin,6,Castilla,056,5.11
+2021,6,Tetuan,1,Bellas Vistas,061,7.45
+2021,6,Tetuan,2,Cuatro Caminos,062,5.88
+2021,6,Tetuan,3,Castillejos,063,6.11
+2021,6,Tetuan,4,Almenara,064,10.94
+2021,6,Tetuan,5,Valdeacederas,065,8.31
+2021,6,Tetuan,6,Berruguete,066,8.06
+2021,7,Chamberi,1,Gaztambide,071,5.7
+2021,7,Chamberi,2,Arapiles,072,5.82
+2021,7,Chamberi,3,Trafalgar,073,5.64
+2021,7,Chamberi,4,Almagro,074,4.31
+2021,7,Chamberi,5,Ríos Rosas,075,4.98
+2021,7,Chamberi,6,Vallehermoso,076,4.91
+2021,8,Fuencarral-El Pardo,1,El Pardo,081,7
+2021,8,Fuencarral-El Pardo,2,Fuentelarreina,082,3.37
+2021,8,Fuencarral-El Pardo,3,Peñagrande,083,6.68
+2021,8,Fuencarral-El Pardo,4,Pilar,084,7.46
+2021,8,Fuencarral-El Pardo,5,La Paz,085,5.34
+2021,8,Fuencarral-El Pardo,6,Valverde,086,6.78
+2021,8,Fuencarral-El Pardo,7,Mirasierra,087,4.42
+2021,8,Fuencarral-El Pardo,8,El Goloso,088,3.94
+2021,9,Moncloa-Aravaca,1,Casa de Campo,091,7.36
+2021,9,Moncloa-Aravaca,2,Argüelles,092,4.98
+2021,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,4.78
+2021,9,Moncloa-Aravaca,4,Valdezarza,094,7.44
+2021,9,Moncloa-Aravaca,5,Valdemarín,095,2.92
+2021,9,Moncloa-Aravaca,6,El Plantío,096,3.25
+2021,9,Moncloa-Aravaca,7,Aravaca,097,4.17
+2021,10,Latina,1,Los Cármenes,101,11.54
+2021,10,Latina,2,Puerta del Angel,102,9.57
+2021,10,Latina,3,Lucero,103,9.27
+2021,10,Latina,4,Aluche,104,8.75
+2021,10,Latina,5,Campamento,105,7.77
+2021,10,Latina,6,Cuatro Vientos,106,8.54
+2021,10,Latina,7,Águilas,107,8.75
+2021,11,Carabanchel,1,Comillas,111,9.72
+2021,11,Carabanchel,2,Opañel,112,8.53
+2021,11,Carabanchel,3,San Isidro,113,11.71
+2021,11,Carabanchel,4,Vista Alegre,114,9.32
+2021,11,Carabanchel,5,Puerta Bonita,115,10.42
+2021,11,Carabanchel,6,Buenavista,116,8.3
+2021,11,Carabanchel,7,Abrantes,117,9.8
+2021,12,Usera,1,Orcasitas,121,10.83
+2021,12,Usera,2,Orcasur,122,13.41
+2021,12,Usera,3,San Fermín,123,10.75
+2021,12,Usera,4,Almendrales,124,9.48
+2021,12,Usera,5,Moscardó,125,9.22
+2021,12,Usera,6,Zofío,126,9.75
+2021,12,Usera,7,Pradolongo,127,9.49
+2021,13,Puente de Vallecas,1,Entrevías,131,13.37
+2021,13,Puente de Vallecas,2,San Diego,132,10.82
+2021,13,Puente de Vallecas,3,Palomeras Bajas,133,10.19
+2021,13,Puente de Vallecas,4,Palomeras Sureste,134,10.33
+2021,13,Puente de Vallecas,5,Portazgo,135,12.29
+2021,13,Puente de Vallecas,6,Numancia,136,11.05
+2021,14,Moratalaz,1,Pavones,141,9.87
+2021,14,Moratalaz,2,Horcajo,142,8.43
+2021,14,Moratalaz,3,Marroquina,143,8.04
+2021,14,Moratalaz,4,Media Legua,144,10.07
+2021,14,Moratalaz,5,Fontarrón,145,9.41
+2021,14,Moratalaz,6,Vinateros,146,8.85
+2021,15,Ciudad Lineal,1,Ventas,151,8.42
+2021,15,Ciudad Lineal,2,Pueblo Nuevo,152,8.31
+2021,15,Ciudad Lineal,3,Quintana,153,7.75
+2021,15,Ciudad Lineal,4,La Concepción,154,8.03
+2021,15,Ciudad Lineal,5,San Pascual,155,7.82
+2021,15,Ciudad Lineal,6,San Juan Bautista,156,5.66
+2021,15,Ciudad Lineal,7,Colina,157,6.56
+2021,15,Ciudad Lineal,8,Atalaya,158,3.94
+2021,15,Ciudad Lineal,9,Costillares,159,5.31
+2021,16,Hortaleza,1,Palomas,161,4.8
+2021,16,Hortaleza,2,Piovera,162,4.33
+2021,16,Hortaleza,3,Canillas,163,7.43
+2021,16,Hortaleza,4,Pinar del Rey,164,8.8
+2021,16,Hortaleza,5,Apóstol Santiago,165,8.43
+2021,16,Hortaleza,6,Valdefuentes,166,5.1
+2021,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,12.34
+2021,17,Villaverde,2,San Cristóbal,172,14
+2021,17,Villaverde,3,Butarque,173,8.48
+2021,17,Villaverde,4,Los Rosales,174,10.08
+2021,17,Villaverde,5,Ángeles,175,9.84
+2021,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,12.42
+2021,18,Villa de Vallecas,2,Santa Eugenia,182,9.17
+2021,18,Villa de Vallecas,3,Ensanche de Vallecas,183,7.23
+2021,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,11.34
+2021,19,Vicalvaro,2,Valdebernardo,192,9.38
+2021,19,Vicalvaro,3,Valderrivas,193,5.51
+2021,19,Vicalvaro,4,El Cañaveral,194,3.93
+2021,20,San Blas-Canillejas,1,Simancas,201,8.76
+2021,20,San Blas-Canillejas,2,Hellín,202,11.44
+2021,20,San Blas-Canillejas,3,Amposta,203,12.72
+2021,20,San Blas-Canillejas,4,Arcos,204,9.81
+2021,20,San Blas-Canillejas,5,Rosas,205,6.17
+2021,20,San Blas-Canillejas,6,Rejas,206,6.15
+2021,20,San Blas-Canillejas,7,Canillejas,207,8.84
+2021,20,San Blas-Canillejas,8,El Salvador,208,6.62
+2021,21,Barajas,1,Alameda de Osuna,211,5.49
+2021,21,Barajas,2,Aeropuerto,212,7.78
+2021,21,Barajas,3,Casco Histórico de Barajas,213,7.91
+2021,21,Barajas,4,Timón,214,6.43
+2021,21,Barajas,5,Corralejos,215,4.28
+2022,1,Centro,1,Palacio,011,6.11
+2022,1,Centro,2,Embajadores,012,6.25
+2022,1,Centro,3,Cortes,013,4.72
+2022,1,Centro,4,Justicia,014,4.84
+2022,1,Centro,5,Universidad,015,4.86
+2022,1,Centro,6,Sol,016,5.06
+2022,2,Arganzuela,1,Imperial,021,5.28
+2022,2,Arganzuela,2,Acacias,022,5.09
+2022,2,Arganzuela,3,Chopera,023,6.04
+2022,2,Arganzuela,4,Legazpi,024,3.73
+2022,2,Arganzuela,5,Delicias,025,4.58
+2022,2,Arganzuela,6,Palos de la Frontera,026,5.17
+2022,2,Arganzuela,7,Atocha,027,4.54
+2022,3,Retiro,1,Pacífico,031,4.5
+2022,3,Retiro,2,Adelfas,032,5.01
+2022,3,Retiro,3,Estrella,033,4.01
+2022,3,Retiro,4,Ibiza,034,4.15
+2022,3,Retiro,5,Los Jerónimos,035,3.18
+2022,3,Retiro,6,Niño Jesús,036,3.69
+2022,4,Salamanca,1,Recoletos,041,2.33
+2022,4,Salamanca,2,Goya,042,3.46
+2022,4,Salamanca,3,Fuente del Berro,043,4.98
+2022,4,Salamanca,4,Guindalera,044,4.3
+2022,4,Salamanca,5,Lista,045,3.39
+2022,4,Salamanca,6,Castellana,046,2.28
+2022,5,Chamartin,1,El Viso,051,2.6
+2022,5,Chamartin,2,Prosperidad,052,4.84
+2022,5,Chamartin,3,Ciudad Jardín,053,4.68
+2022,5,Chamartin,4,Hispanoamérica,054,3.47
+2022,5,Chamartin,5,Nueva España,055,2.94
+2022,5,Chamartin,6,Castilla,056,3.64
+2022,6,Tetuan,1,Bellas Vistas,061,5.48
+2022,6,Tetuan,2,Cuatro Caminos,062,4.31
+2022,6,Tetuan,3,Castillejos,063,4.69
+2022,6,Tetuan,4,Almenara,064,8.09
+2022,6,Tetuan,5,Valdeacederas,065,6.37
+2022,6,Tetuan,6,Berruguete,066,5.75
+2022,7,Chamberi,1,Gaztambide,071,4.15
+2022,7,Chamberi,2,Arapiles,072,4.19
+2022,7,Chamberi,3,Trafalgar,073,4.23
+2022,7,Chamberi,4,Almagro,074,3.12
+2022,7,Chamberi,5,Ríos Rosas,075,3.46
+2022,7,Chamberi,6,Vallehermoso,076,3.37
+2022,8,Fuencarral-El Pardo,1,El Pardo,081,5.45
+2022,8,Fuencarral-El Pardo,2,Fuentelarreina,082,1.82
+2022,8,Fuencarral-El Pardo,3,Peñagrande,083,5.3
+2022,8,Fuencarral-El Pardo,4,Pilar,084,5.93
+2022,8,Fuencarral-El Pardo,5,La Paz,085,4.31
+2022,8,Fuencarral-El Pardo,6,Valverde,086,5.1
+2022,8,Fuencarral-El Pardo,7,Mirasierra,087,3.27
+2022,8,Fuencarral-El Pardo,8,El Goloso,088,3.05
+2022,9,Moncloa-Aravaca,1,Casa de Campo,091,5.38
+2022,9,Moncloa-Aravaca,2,Argüelles,092,3.59
+2022,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,3.51
+2022,9,Moncloa-Aravaca,4,Valdezarza,094,6.02
+2022,9,Moncloa-Aravaca,5,Valdemarín,095,2.38
+2022,9,Moncloa-Aravaca,6,El Plantío,096,2.95
+2022,9,Moncloa-Aravaca,7,Aravaca,097,2.94
+2022,10,Latina,1,Los Cármenes,101,8.96
+2022,10,Latina,2,Puerta del Angel,102,7.09
+2022,10,Latina,3,Lucero,103,6.98
+2022,10,Latina,4,Aluche,104,6.55
+2022,10,Latina,5,Campamento,105,5.88
+2022,10,Latina,6,Cuatro Vientos,106,6.12
+2022,10,Latina,7,Águilas,107,6.71
+2022,11,Carabanchel,1,Comillas,111,7.11
+2022,11,Carabanchel,2,Opañel,112,6.56
+2022,11,Carabanchel,3,San Isidro,113,8.88
+2022,11,Carabanchel,4,Vista Alegre,114,7.11
+2022,11,Carabanchel,5,Puerta Bonita,115,8.05
+2022,11,Carabanchel,6,Buenavista,116,6.32
+2022,11,Carabanchel,7,Abrantes,117,7.36
+2022,12,Usera,1,Orcasitas,121,7.99
+2022,12,Usera,2,Orcasur,122,10.15
+2022,12,Usera,3,San Fermín,123,8.7
+2022,12,Usera,4,Almendrales,124,6.97
+2022,12,Usera,5,Moscardó,125,6.95
+2022,12,Usera,6,Zofío,126,7.43
+2022,12,Usera,7,Pradolongo,127,7.13
+2022,13,Puente de Vallecas,1,Entrevías,131,10.53
+2022,13,Puente de Vallecas,2,San Diego,132,8.62
+2022,13,Puente de Vallecas,3,Palomeras Bajas,133,7.94
+2022,13,Puente de Vallecas,4,Palomeras Sureste,134,8.28
+2022,13,Puente de Vallecas,5,Portazgo,135,9.66
+2022,13,Puente de Vallecas,6,Numancia,136,8.47
+2022,14,Moratalaz,1,Pavones,141,7.29
+2022,14,Moratalaz,2,Horcajo,142,7.14
+2022,14,Moratalaz,3,Marroquina,143,6.56
+2022,14,Moratalaz,4,Media Legua,144,8.01
+2022,14,Moratalaz,5,Fontarrón,145,7.68
+2022,14,Moratalaz,6,Vinateros,146,6.3
+2022,15,Ciudad Lineal,1,Ventas,151,6.42
+2022,15,Ciudad Lineal,2,Pueblo Nuevo,152,6.36
+2022,15,Ciudad Lineal,3,Quintana,153,6.32
+2022,15,Ciudad Lineal,4,La Concepción,154,5.6
+2022,15,Ciudad Lineal,5,San Pascual,155,5.71
+2022,15,Ciudad Lineal,6,San Juan Bautista,156,4.06
+2022,15,Ciudad Lineal,7,Colina,157,5.27
+2022,15,Ciudad Lineal,8,Atalaya,158,3.74
+2022,15,Ciudad Lineal,9,Costillares,159,4.28
+2022,16,Hortaleza,1,Palomas,161,3.93
+2022,16,Hortaleza,2,Piovera,162,3.17
+2022,16,Hortaleza,3,Canillas,163,5.57
+2022,16,Hortaleza,4,Pinar del Rey,164,6.66
+2022,16,Hortaleza,5,Apóstol Santiago,165,6.75
+2022,16,Hortaleza,6,Valdefuentes,166,3.69
+2022,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,9.25
+2022,17,Villaverde,2,San Cristóbal,172,10.09
+2022,17,Villaverde,3,Butarque,173,6.5
+2022,17,Villaverde,4,Los Rosales,174,7.61
+2022,17,Villaverde,5,Ángeles,175,7.44
+2022,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,9.83
+2022,18,Villa de Vallecas,2,Santa Eugenia,182,7.14
+2022,18,Villa de Vallecas,3,Ensanche de Vallecas,183,5.82
+2022,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,9.19
+2022,19,Vicalvaro,2,Valdebernardo,192,7.81
+2022,19,Vicalvaro,3,Valderrivas,193,4.59
+2022,19,Vicalvaro,4,El Cañaveral,194,3.62
+2022,20,San Blas-Canillejas,1,Simancas,201,7.11
+2022,20,San Blas-Canillejas,2,Hellín,202,9.37
+2022,20,San Blas-Canillejas,3,Amposta,203,10.07
+2022,20,San Blas-Canillejas,4,Arcos,204,7.66
+2022,20,San Blas-Canillejas,5,Rosas,205,5.09
+2022,20,San Blas-Canillejas,6,Rejas,206,4.64
+2022,20,San Blas-Canillejas,7,Canillejas,207,7
+2022,20,San Blas-Canillejas,8,El Salvador,208,5.63
+2022,21,Barajas,1,Alameda de Osuna,211,4.15
+2022,21,Barajas,2,Aeropuerto,212,6.68
+2022,21,Barajas,3,Casco Histórico de Barajas,213,5.58
+2022,21,Barajas,4,Timón,214,5.1
+2022,21,Barajas,5,Corralejos,215,3.44
+2023,1,Centro,1,Palacio,011,5.9
+2023,1,Centro,2,Embajadores,012,5.9
+2023,1,Centro,3,Cortes,013,4.84
+2023,1,Centro,4,Justicia,014,4.67
+2023,1,Centro,5,Universidad,015,4.74
+2023,1,Centro,6,Sol,016,4.77
+2023,2,Arganzuela,1,Imperial,021,5.13
+2023,2,Arganzuela,2,Acacias,022,4.9
+2023,2,Arganzuela,3,Chopera,023,5.89
+2023,2,Arganzuela,4,Legazpi,024,3.81
+2023,2,Arganzuela,5,Delicias,025,4.49
+2023,2,Arganzuela,6,Palos de la Frontera,026,5.03
+2023,2,Arganzuela,7,Atocha,027,4.46
+2023,3,Retiro,1,Pacífico,031,4.67
+2023,3,Retiro,2,Adelfas,032,4.57
+2023,3,Retiro,3,Estrella,033,3.84
+2023,3,Retiro,4,Ibiza,034,4
+2023,3,Retiro,5,Los Jerónimos,035,3.14
+2023,3,Retiro,6,Niño Jesús,036,3.03
+2023,4,Salamanca,1,Recoletos,041,2.52
+2023,4,Salamanca,2,Goya,042,3.53
+2023,4,Salamanca,3,Fuente del Berro,043,4.54
+2023,4,Salamanca,4,Guindalera,044,4.26
+2023,4,Salamanca,5,Lista,045,3.48
+2023,4,Salamanca,6,Castellana,046,2.3
+2023,5,Chamartin,1,El Viso,051,2.58
+2023,5,Chamartin,2,Prosperidad,052,4.7
+2023,5,Chamartin,3,Ciudad Jardín,053,4.73
+2023,5,Chamartin,4,Hispanoamérica,054,3.73
+2023,5,Chamartin,5,Nueva España,055,3.04
+2023,5,Chamartin,6,Castilla,056,3.37
+2023,6,Tetuan,1,Bellas Vistas,061,5.28
+2023,6,Tetuan,2,Cuatro Caminos,062,4.56
+2023,6,Tetuan,3,Castillejos,063,4.41
+2023,6,Tetuan,4,Almenara,064,7.73
+2023,6,Tetuan,5,Valdeacederas,065,5.99
+2023,6,Tetuan,6,Berruguete,066,5.17
+2023,7,Chamberi,1,Gaztambide,071,4.04
+2023,7,Chamberi,2,Arapiles,072,4.05
+2023,7,Chamberi,3,Trafalgar,073,4.16
+2023,7,Chamberi,4,Almagro,074,3.09
+2023,7,Chamberi,5,Ríos Rosas,075,3.65
+2023,7,Chamberi,6,Vallehermoso,076,3.43
+2023,8,Fuencarral-El Pardo,1,El Pardo,081,5.29
+2023,8,Fuencarral-El Pardo,2,Fuentelarreina,082,2.15
+2023,8,Fuencarral-El Pardo,3,Peñagrande,083,5.15
+2023,8,Fuencarral-El Pardo,4,Pilar,084,5.55
+2023,8,Fuencarral-El Pardo,5,La Paz,085,4.12
+2023,8,Fuencarral-El Pardo,6,Valverde,086,4.99
+2023,8,Fuencarral-El Pardo,7,Mirasierra,087,3.46
+2023,8,Fuencarral-El Pardo,8,El Goloso,088,2.88
+2023,9,Moncloa-Aravaca,1,Casa de Campo,091,5.4
+2023,9,Moncloa-Aravaca,2,Argüelles,092,3.35
+2023,9,Moncloa-Aravaca,3,Ciudad Universitaria,093,3.59
+2023,9,Moncloa-Aravaca,4,Valdezarza,094,5.51
+2023,9,Moncloa-Aravaca,5,Valdemarín,095,2.52
+2023,9,Moncloa-Aravaca,6,El Plantío,096,2.7
+2023,9,Moncloa-Aravaca,7,Aravaca,097,3.22
+2023,10,Latina,1,Los Cármenes,101,8.7
+2023,10,Latina,2,Puerta del Angel,102,6.38
+2023,10,Latina,3,Lucero,103,6.52
+2023,10,Latina,4,Aluche,104,6.29
+2023,10,Latina,5,Campamento,105,6.14
+2023,10,Latina,6,Cuatro Vientos,106,6.29
+2023,10,Latina,7,Águilas,107,6.63
+2023,11,Carabanchel,1,Comillas,111,6.74
+2023,11,Carabanchel,2,Opañel,112,6.34
+2023,11,Carabanchel,3,San Isidro,113,8.34
+2023,11,Carabanchel,4,Vista Alegre,114,6.81
+2023,11,Carabanchel,5,Puerta Bonita,115,7.59
+2023,11,Carabanchel,6,Buenavista,116,5.99
+2023,11,Carabanchel,7,Abrantes,117,7.04
+2023,12,Usera,1,Orcasitas,121,8.14
+2023,12,Usera,2,Orcasur,122,9.34
+2023,12,Usera,3,San Fermín,123,8.18
+2023,12,Usera,4,Almendrales,124,6.6
+2023,12,Usera,5,Moscardó,125,6.55
+2023,12,Usera,6,Zofío,126,7.35
+2023,12,Usera,7,Pradolongo,127,6.61
+2023,13,Puente de Vallecas,1,Entrevías,131,10.2
+2023,13,Puente de Vallecas,2,San Diego,132,7.91
+2023,13,Puente de Vallecas,3,Palomeras Bajas,133,7.74
+2023,13,Puente de Vallecas,4,Palomeras Sureste,134,7.93
+2023,13,Puente de Vallecas,5,Portazgo,135,9.05
+2023,13,Puente de Vallecas,6,Numancia,136,7.83
+2023,14,Moratalaz,1,Pavones,141,7.23
+2023,14,Moratalaz,2,Horcajo,142,6.81
+2023,14,Moratalaz,3,Marroquina,143,6.45
+2023,14,Moratalaz,4,Media Legua,144,7.78
+2023,14,Moratalaz,5,Fontarrón,145,7.2
+2023,14,Moratalaz,6,Vinateros,146,5.98
+2023,15,Ciudad Lineal,1,Ventas,151,6.08
+2023,15,Ciudad Lineal,2,Pueblo Nuevo,152,5.98
+2023,15,Ciudad Lineal,3,Quintana,153,6.06
+2023,15,Ciudad Lineal,4,La Concepción,154,5.43
+2023,15,Ciudad Lineal,5,San Pascual,155,5.37
+2023,15,Ciudad Lineal,6,San Juan Bautista,156,4.19
+2023,15,Ciudad Lineal,7,Colina,157,4.42
+2023,15,Ciudad Lineal,8,Atalaya,158,3.84
+2023,15,Ciudad Lineal,9,Costillares,159,4.05
+2023,16,Hortaleza,1,Palomas,161,3.63
+2023,16,Hortaleza,2,Piovera,162,2.92
+2023,16,Hortaleza,3,Canillas,163,5.67
+2023,16,Hortaleza,4,Pinar del Rey,164,6.31
+2023,16,Hortaleza,5,Apóstol Santiago,165,6.65
+2023,16,Hortaleza,6,Valdefuentes,166,3.5
+2023,17,Villaverde,1,"Villaverde Alto, Casco Histórico de Villaverde",171,8.87
+2023,17,Villaverde,2,San Cristóbal,172,9.13
+2023,17,Villaverde,3,Butarque,173,6.49
+2023,17,Villaverde,4,Los Rosales,174,7.27
+2023,17,Villaverde,5,Ángeles,175,7.09
+2023,18,Villa de Vallecas,1,Casco Histórico de Vallecas,181,9.7
+2023,18,Villa de Vallecas,2,Santa Eugenia,182,7.27
+2023,18,Villa de Vallecas,3,Ensanche de Vallecas,183,5.64
+2023,19,Vicalvaro,1,Casco Histórico de Vicálvaro,191,8.77
+2023,19,Vicalvaro,2,Valdebernardo,192,7.95
+2023,19,Vicalvaro,3,Valderrivas,193,4.12
+2023,19,Vicalvaro,4,El Cañaveral,194,3.36
+2023,20,San Blas-Canillejas,1,Simancas,201,6.45
+2023,20,San Blas-Canillejas,2,Hellín,202,8.49
+2023,20,San Blas-Canillejas,3,Amposta,203,9.79
+2023,20,San Blas-Canillejas,4,Arcos,204,7.25
+2023,20,San Blas-Canillejas,5,Rosas,205,4.92
+2023,20,San Blas-Canillejas,6,Rejas,206,4.69
+2023,20,San Blas-Canillejas,7,Canillejas,207,6.67
+2023,20,San Blas-Canillejas,8,El Salvador,208,5.54
+2023,21,Barajas,1,Alameda de Osuna,211,3.92
+2023,21,Barajas,2,Aeropuerto,212,6.48
+2023,21,Barajas,3,Casco Histórico de Barajas,213,5.36
+2023,21,Barajas,4,Timón,214,4.79
+2023,21,Barajas,5,Corralejos,215,3.44

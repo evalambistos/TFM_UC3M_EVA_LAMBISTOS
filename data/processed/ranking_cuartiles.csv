@@ -1,0 +1,516 @@
+ventana,barrio_nombre,indice_gentrificacion,categoria
+A,Cortes,1.064485891962043,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Universidad,1.0078787439030514,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Justicia,0.9541020588970075,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Sol,0.9202388640034082,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Embajadores,0.841246909904745,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Castellana,0.7817214547279815,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Palacio,0.6954042599359995,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Recoletos,0.657651251181017,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Trafalgar,0.582849351245869,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Goya,0.5215434538331527,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Arapiles,0.5010248205736859,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Gaztambide,0.49333653717911014,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Lista,0.4804415630860682,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Ríos Rosas,0.4673888447977687,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Almagro,0.46278773049774086,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Palos de la Frontera,0.41150169815521515,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Castillejos,0.3942855460963127,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Ibiza,0.38758720580577655,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Piovera,0.36514381212652847,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Cuatro Caminos,0.3513334230930082,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Fuente del Berro,0.346113821752111,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Argüelles,0.3458096831871643,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Nueva España,0.3170000369162719,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Los Jerónimos,0.3072230479128381,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Ciudad Jardín,0.29373541260245795,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Guindalera,0.2862640312974797,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,El Viso,0.27546567075623346,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Vallehermoso,0.26982377300106847,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+A,Valdeacederas,0.26690104573002904,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Prosperidad,0.2586261333990142,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Bellas Vistas,0.23242920454484942,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Berruguete,0.23000146324617232,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+A,Colina,0.22634498305202172,3: Quartile 2 (slight gentrification trend)
+A,Castilla,0.22022791768898206,3: Quartile 2 (slight gentrification trend)
+A,Hispanoamérica,0.20423515606981868,3: Quartile 2 (slight gentrification trend)
+A,Pacífico,0.17470404991717198,3: Quartile 2 (slight gentrification trend)
+A,Acacias,0.1746974203413908,3: Quartile 2 (slight gentrification trend)
+A,Chopera,0.17123270936588827,3: Quartile 2 (slight gentrification trend)
+A,Almenara,0.16486977978038006,3: Quartile 2 (slight gentrification trend)
+A,Rejas,0.1621020974201984,3: Quartile 2 (slight gentrification trend)
+A,Atalaya,0.1605724860820955,3: Quartile 2 (slight gentrification trend)
+A,Quintana,0.15501217473983,3: Quartile 2 (slight gentrification trend)
+A,Palomas,0.1331529387654816,3: Quartile 2 (slight gentrification trend)
+A,Adelfas,0.13021537784417317,3: Quartile 2 (slight gentrification trend)
+A,La Concepción,0.12302316297320601,3: Quartile 2 (slight gentrification trend)
+A,Casco Histórico de Barajas,0.1198026822210317,3: Quartile 2 (slight gentrification trend)
+A,Delicias,0.11978365140835084,3: Quartile 2 (slight gentrification trend)
+A,Legazpi,0.11693178739095203,3: Quartile 2 (slight gentrification trend)
+A,Imperial,0.11633287604051396,3: Quartile 2 (slight gentrification trend)
+A,Niño Jesús,0.11207752673332995,3: Quartile 2 (slight gentrification trend)
+A,San Juan Bautista,0.10337811339546209,3: Quartile 2 (slight gentrification trend)
+A,Casa de Campo,0.10182609891952958,3: Quartile 2 (slight gentrification trend)
+A,Puerta del Angel,0.09895108743378546,3: Quartile 2 (slight gentrification trend)
+A,Comillas,0.09495166353336806,3: Quartile 2 (slight gentrification trend)
+A,Ciudad Universitaria,0.08141302321386357,3: Quartile 2 (slight gentrification trend)
+A,Valdefuentes,0.07406869305783638,3: Quartile 2 (slight gentrification trend)
+A,Simancas,0.05937645611426698,3: Quartile 2 (slight gentrification trend)
+A,El Pardo,0.05452672296835414,3: Quartile 2 (slight gentrification trend)
+A,San Diego,0.036410427071415286,3: Quartile 2 (slight gentrification trend)
+A,Ventas,0.014806054525409708,3: Quartile 2 (slight gentrification trend)
+A,Valdemarín,0.005456248667672664,3: Quartile 2 (slight gentrification trend)
+A,Timón,-0.0031866947636106403,3: Quartile 2 (slight gentrification trend)
+A,El Salvador,-0.0031908268656103225,3: Quartile 2 (slight gentrification trend)
+A,Aeropuerto,-0.004534301964969525,4: Quartile 3+4 (no gentrification dynamic)
+A,El Goloso,-0.010484636710352607,4: Quartile 3+4 (no gentrification dynamic)
+A,Aravaca,-0.015127718809602496,4: Quartile 3+4 (no gentrification dynamic)
+A,Numancia,-0.02053657458188198,4: Quartile 3+4 (no gentrification dynamic)
+A,El Plantío,-0.026813264133569343,4: Quartile 3+4 (no gentrification dynamic)
+A,Pilar,-0.02720072522501611,4: Quartile 3+4 (no gentrification dynamic)
+A,Atocha,-0.028562815837877745,4: Quartile 3+4 (no gentrification dynamic)
+A,Pueblo Nuevo,-0.04146376551040197,4: Quartile 3+4 (no gentrification dynamic)
+A,Opañel,-0.04205794992569821,4: Quartile 3+4 (no gentrification dynamic)
+A,Costillares,-0.042536797451088106,4: Quartile 3+4 (no gentrification dynamic)
+A,Canillas,-0.04320418023183266,4: Quartile 3+4 (no gentrification dynamic)
+A,Canillejas,-0.04324131918882032,4: Quartile 3+4 (no gentrification dynamic)
+A,San Isidro,-0.04376676291383748,4: Quartile 3+4 (no gentrification dynamic)
+A,Cuatro Vientos,-0.0557089765480924,4: Quartile 3+4 (no gentrification dynamic)
+A,Valverde,-0.06212518075622975,4: Quartile 3+4 (no gentrification dynamic)
+A,Corralejos,-0.06829426450954619,4: Quartile 3+4 (no gentrification dynamic)
+A,San Pascual,-0.07149606789314428,4: Quartile 3+4 (no gentrification dynamic)
+A,Valdezarza,-0.07358265060129374,4: Quartile 3+4 (no gentrification dynamic)
+A,Lucero,-0.07514451816080535,4: Quartile 3+4 (no gentrification dynamic)
+A,Amposta,-0.07856145109654328,4: Quartile 3+4 (no gentrification dynamic)
+A,Apóstol Santiago,-0.08224919075270377,4: Quartile 3+4 (no gentrification dynamic)
+A,Santa Eugenia,-0.0908708652857587,4: Quartile 3+4 (no gentrification dynamic)
+A,Los Cármenes,-0.09242043818395163,4: Quartile 3+4 (no gentrification dynamic)
+A,Fuentelarreina,-0.09908666545534232,4: Quartile 3+4 (no gentrification dynamic)
+A,Campamento,-0.09991448164438277,4: Quartile 3+4 (no gentrification dynamic)
+A,Puerta Bonita,-0.102268884425383,4: Quartile 3+4 (no gentrification dynamic)
+A,Moscardó,-0.10419445172828161,4: Quartile 3+4 (no gentrification dynamic)
+A,Fontarrón,-0.10745091701061103,4: Quartile 3+4 (no gentrification dynamic)
+A,Mirasierra,-0.10952207965995232,4: Quartile 3+4 (no gentrification dynamic)
+A,"Villaverde Alto, Casco Histórico de Villaverde",-0.11455225670857404,4: Quartile 3+4 (no gentrification dynamic)
+A,Pinar del Rey,-0.11668997072605258,4: Quartile 3+4 (no gentrification dynamic)
+A,Estrella,-0.11673364221201374,4: Quartile 3+4 (no gentrification dynamic)
+A,Hellín,-0.13603726901418042,4: Quartile 3+4 (no gentrification dynamic)
+A,Media Legua,-0.13737910762937725,4: Quartile 3+4 (no gentrification dynamic)
+A,Vinateros,-0.13773985666033778,4: Quartile 3+4 (no gentrification dynamic)
+A,Peñagrande,-0.14149003665276932,4: Quartile 3+4 (no gentrification dynamic)
+A,Vista Alegre,-0.14593236083009237,4: Quartile 3+4 (no gentrification dynamic)
+A,Palomeras Sureste,-0.15307283077758377,4: Quartile 3+4 (no gentrification dynamic)
+A,Buenavista,-0.1545994876156783,4: Quartile 3+4 (no gentrification dynamic)
+A,Portazgo,-0.15574315637659306,4: Quartile 3+4 (no gentrification dynamic)
+A,Zofío,-0.15822222928701404,4: Quartile 3+4 (no gentrification dynamic)
+A,Almendrales,-0.15822547417787766,4: Quartile 3+4 (no gentrification dynamic)
+A,Aluche,-0.1597817745605807,4: Quartile 3+4 (no gentrification dynamic)
+A,La Paz,-0.1634686314473955,4: Quartile 3+4 (no gentrification dynamic)
+A,Palomeras Bajas,-0.16670879021027424,4: Quartile 3+4 (no gentrification dynamic)
+A,San Fermín,-0.1838057541747199,4: Quartile 3+4 (no gentrification dynamic)
+A,Butarque,-0.1839924905961749,4: Quartile 3+4 (no gentrification dynamic)
+A,Entrevías,-0.18560114211886786,4: Quartile 3+4 (no gentrification dynamic)
+A,Marroquina,-0.18861156261947062,4: Quartile 3+4 (no gentrification dynamic)
+A,Ángeles,-0.1891405163092474,4: Quartile 3+4 (no gentrification dynamic)
+A,Abrantes,-0.19277697365821705,4: Quartile 3+4 (no gentrification dynamic)
+A,Los Rosales,-0.19683153105425566,4: Quartile 3+4 (no gentrification dynamic)
+A,Arcos,-0.20262240042677768,4: Quartile 3+4 (no gentrification dynamic)
+A,Pradolongo,-0.20300592506135365,4: Quartile 3+4 (no gentrification dynamic)
+A,Águilas,-0.20541286137270512,4: Quartile 3+4 (no gentrification dynamic)
+A,San Cristóbal,-0.2272832285596736,4: Quartile 3+4 (no gentrification dynamic)
+A,Rosas,-0.23407200233861353,4: Quartile 3+4 (no gentrification dynamic)
+A,Pavones,-0.23817199041628517,4: Quartile 3+4 (no gentrification dynamic)
+A,Orcasur,-0.2415741249622429,4: Quartile 3+4 (no gentrification dynamic)
+A,Alameda de Osuna,-0.24541796769996327,4: Quartile 3+4 (no gentrification dynamic)
+A,Horcajo,-0.3469273695397582,4: Quartile 3+4 (no gentrification dynamic)
+A,Orcasitas,-0.35455748369990225,4: Quartile 3+4 (no gentrification dynamic)
+B,Sol,1.3889206475661091,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Justicia,1.0897073234782109,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Universidad,0.9877558719076049,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Cortes,0.964229621571202,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Embajadores,0.8627729800540411,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Recoletos,0.8210471444856066,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Palacio,0.7585048355659575,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Castellana,0.7568266625580737,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Trafalgar,0.6837336740948803,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Lista,0.6033352533978946,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Almagro,0.575944935464658,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Goya,0.5411111748615991,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Gaztambide,0.5215062252408527,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Arapiles,0.4954241279909958,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Argüelles,0.48317422228786344,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,El Viso,0.4689599060813127,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Ibiza,0.4574488137316592,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Ríos Rosas,0.41007286749711236,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Piovera,0.394389712898381,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Los Jerónimos,0.3942508365559981,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Palos de la Frontera,0.3931857440197137,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Castillejos,0.36655338630969375,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Fuente del Berro,0.35526082006841436,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Cuatro Caminos,0.3538442132936501,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Nueva España,0.3357530949151521,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Guindalera,0.3215444832597582,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Ciudad Jardín,0.2897630022085961,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Delicias,0.24925753567732542,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Vallehermoso,0.247847239149617,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Valdeacederas,0.24474645035703102,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,San Juan Bautista,0.23393532038373197,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+B,Prosperidad,0.2326413408748465,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Berruguete,0.21086514906135304,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+B,Bellas Vistas,0.20691533634169124,3: Quartile 2 (slight gentrification trend)
+B,Colina,0.19609312990344813,3: Quartile 2 (slight gentrification trend)
+B,Chopera,0.18688711457350657,3: Quartile 2 (slight gentrification trend)
+B,Legazpi,0.18532806009058805,3: Quartile 2 (slight gentrification trend)
+B,Quintana,0.1822008397268995,3: Quartile 2 (slight gentrification trend)
+B,Castilla,0.17475524726107702,3: Quartile 2 (slight gentrification trend)
+B,Hispanoamérica,0.167257435689773,3: Quartile 2 (slight gentrification trend)
+B,Palomas,0.15026383645722347,3: Quartile 2 (slight gentrification trend)
+B,Pacífico,0.14319682724182736,3: Quartile 2 (slight gentrification trend)
+B,Acacias,0.12601880717737918,3: Quartile 2 (slight gentrification trend)
+B,Atalaya,0.11732550615028386,3: Quartile 2 (slight gentrification trend)
+B,Comillas,0.10894210932318178,3: Quartile 2 (slight gentrification trend)
+B,Puerta del Angel,0.09765090385740915,3: Quartile 2 (slight gentrification trend)
+B,La Concepción,0.09576132048074269,3: Quartile 2 (slight gentrification trend)
+B,Almenara,0.0849030887003663,3: Quartile 2 (slight gentrification trend)
+B,El Plantío,0.0780782552323178,3: Quartile 2 (slight gentrification trend)
+B,Imperial,0.06826914458587531,3: Quartile 2 (slight gentrification trend)
+B,Ensanche de Vallecas,0.06584082524571268,3: Quartile 2 (slight gentrification trend)
+B,Casa de Campo,0.06386227873217641,3: Quartile 2 (slight gentrification trend)
+B,Adelfas,0.05900137832335404,3: Quartile 2 (slight gentrification trend)
+B,El Goloso,0.056529886626263064,3: Quartile 2 (slight gentrification trend)
+B,Niño Jesús,0.052304322553766595,3: Quartile 2 (slight gentrification trend)
+B,Valdefuentes,0.051933362210351545,3: Quartile 2 (slight gentrification trend)
+B,Pavones,0.04256536786005625,3: Quartile 2 (slight gentrification trend)
+B,Casco Histórico de Barajas,0.04147564142874836,3: Quartile 2 (slight gentrification trend)
+B,Simancas,0.040538425805932435,3: Quartile 2 (slight gentrification trend)
+B,Valdemarín,0.040367384909345175,3: Quartile 2 (slight gentrification trend)
+B,Ciudad Universitaria,0.02784627044393398,3: Quartile 2 (slight gentrification trend)
+B,Apóstol Santiago,0.022900034801737187,3: Quartile 2 (slight gentrification trend)
+B,Ventas,0.018661778604798784,3: Quartile 2 (slight gentrification trend)
+B,San Diego,0.014428753532457256,3: Quartile 2 (slight gentrification trend)
+B,San Isidro,7.765471391479942e-4,3: Quartile 2 (slight gentrification trend)
+B,Aravaca,-0.0012182703370090069,3: Quartile 2 (slight gentrification trend)
+B,San Pascual,-0.010300982468399271,4: Quartile 3+4 (no gentrification dynamic)
+B,Valverde,-0.01126091564599392,4: Quartile 3+4 (no gentrification dynamic)
+B,El Salvador,-0.023347141921664382,4: Quartile 3+4 (no gentrification dynamic)
+B,Numancia,-0.026405736087262096,4: Quartile 3+4 (no gentrification dynamic)
+B,Costillares,-0.026917684083987897,4: Quartile 3+4 (no gentrification dynamic)
+B,Opañel,-0.030821798091092475,4: Quartile 3+4 (no gentrification dynamic)
+B,Casco Histórico de Vicálvaro,-0.0378546608061029,4: Quartile 3+4 (no gentrification dynamic)
+B,Pilar,-0.04451130389217816,4: Quartile 3+4 (no gentrification dynamic)
+B,Campamento,-0.052020516555284564,4: Quartile 3+4 (no gentrification dynamic)
+B,Pueblo Nuevo,-0.052214621662028664,4: Quartile 3+4 (no gentrification dynamic)
+B,Canillejas,-0.05262863845421313,4: Quartile 3+4 (no gentrification dynamic)
+B,Valdezarza,-0.05800345260118929,4: Quartile 3+4 (no gentrification dynamic)
+B,Fuentelarreina,-0.06347544318714309,4: Quartile 3+4 (no gentrification dynamic)
+B,Mirasierra,-0.06382092121103235,4: Quartile 3+4 (no gentrification dynamic)
+B,Timón,-0.07615521684439863,4: Quartile 3+4 (no gentrification dynamic)
+B,Canillas,-0.07954501493557056,4: Quartile 3+4 (no gentrification dynamic)
+B,Atocha,-0.08181822203371579,4: Quartile 3+4 (no gentrification dynamic)
+B,Amposta,-0.08268522846581908,4: Quartile 3+4 (no gentrification dynamic)
+B,El Pardo,-0.08819738698241213,4: Quartile 3+4 (no gentrification dynamic)
+B,Puerta Bonita,-0.09113005828927874,4: Quartile 3+4 (no gentrification dynamic)
+B,Pinar del Rey,-0.09267888179363358,4: Quartile 3+4 (no gentrification dynamic)
+B,Almendrales,-0.09781182881216101,4: Quartile 3+4 (no gentrification dynamic)
+B,Lucero,-0.10619982440731292,4: Quartile 3+4 (no gentrification dynamic)
+B,Los Cármenes,-0.10660746858084807,4: Quartile 3+4 (no gentrification dynamic)
+B,Media Legua,-0.11227469942551349,4: Quartile 3+4 (no gentrification dynamic)
+B,Estrella,-0.11811715102178999,4: Quartile 3+4 (no gentrification dynamic)
+B,Vinateros,-0.11889457013176816,4: Quartile 3+4 (no gentrification dynamic)
+B,Aluche,-0.11956589872280657,4: Quartile 3+4 (no gentrification dynamic)
+B,Santa Eugenia,-0.12046245796632106,4: Quartile 3+4 (no gentrification dynamic)
+B,Corralejos,-0.12646162534153474,4: Quartile 3+4 (no gentrification dynamic)
+B,Fontarrón,-0.1282567682113398,4: Quartile 3+4 (no gentrification dynamic)
+B,"Villaverde Alto, Casco Histórico de Villaverde",-0.13376692176344948,4: Quartile 3+4 (no gentrification dynamic)
+B,Alameda de Osuna,-0.1356685454704513,4: Quartile 3+4 (no gentrification dynamic)
+B,Arcos,-0.13798927654038548,4: Quartile 3+4 (no gentrification dynamic)
+B,Vista Alegre,-0.1415934178595733,4: Quartile 3+4 (no gentrification dynamic)
+B,Moscardó,-0.1492950670231255,4: Quartile 3+4 (no gentrification dynamic)
+B,Aeropuerto,-0.16039825886955042,4: Quartile 3+4 (no gentrification dynamic)
+B,Palomeras Bajas,-0.16076769244993086,4: Quartile 3+4 (no gentrification dynamic)
+B,Hellín,-0.16361178745021338,4: Quartile 3+4 (no gentrification dynamic)
+B,Peñagrande,-0.16724786055972823,4: Quartile 3+4 (no gentrification dynamic)
+B,Abrantes,-0.17079228868736798,4: Quartile 3+4 (no gentrification dynamic)
+B,Casco Histórico de Vallecas,-0.17473396453718848,4: Quartile 3+4 (no gentrification dynamic)
+B,Buenavista,-0.1793501869150598,4: Quartile 3+4 (no gentrification dynamic)
+B,Butarque,-0.18017718844079736,4: Quartile 3+4 (no gentrification dynamic)
+B,Marroquina,-0.1855333099831347,4: Quartile 3+4 (no gentrification dynamic)
+B,Ángeles,-0.18653280732668107,4: Quartile 3+4 (no gentrification dynamic)
+B,Zofío,-0.18741722296015295,4: Quartile 3+4 (no gentrification dynamic)
+B,Cuatro Vientos,-0.1925373923396511,4: Quartile 3+4 (no gentrification dynamic)
+B,Palomeras Sureste,-0.2008346904304849,4: Quartile 3+4 (no gentrification dynamic)
+B,Portazgo,-0.20530247559998754,4: Quartile 3+4 (no gentrification dynamic)
+B,Rosas,-0.2157866591785999,4: Quartile 3+4 (no gentrification dynamic)
+B,Entrevías,-0.21642951907601882,4: Quartile 3+4 (no gentrification dynamic)
+B,San Fermín,-0.2172948768327188,4: Quartile 3+4 (no gentrification dynamic)
+B,Águilas,-0.2200909288680922,4: Quartile 3+4 (no gentrification dynamic)
+B,La Paz,-0.2273484909316857,4: Quartile 3+4 (no gentrification dynamic)
+B,Los Rosales,-0.22920192931465302,4: Quartile 3+4 (no gentrification dynamic)
+B,Pradolongo,-0.23442823378922223,4: Quartile 3+4 (no gentrification dynamic)
+B,Horcajo,-0.255580486470933,4: Quartile 3+4 (no gentrification dynamic)
+B,San Cristóbal,-0.25815269126009804,4: Quartile 3+4 (no gentrification dynamic)
+B,Orcasur,-0.2789429491787667,4: Quartile 3+4 (no gentrification dynamic)
+B,Orcasitas,-0.3706344933493215,4: Quartile 3+4 (no gentrification dynamic)
+B,Valderrivas,-0.6676407242162717,4: Quartile 3+4 (no gentrification dynamic)
+B,Valdebernardo,-0.6761836768107017,4: Quartile 3+4 (no gentrification dynamic)
+B,Rejas,-0.6818148132011176,4: Quartile 3+4 (no gentrification dynamic)
+C,Justicia,1.1987895343625574,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Sol,1.0679301252082594,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Cortes,1.0560965507150604,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Universidad,1.034145426284688,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Recoletos,0.913460585852609,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Embajadores,0.9067495716316547,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Palacio,0.7673947735137258,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Castellana,0.7222471690583743,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Almagro,0.6690272291293308,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Trafalgar,0.6670842148524454,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Argüelles,0.639437207548829,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Goya,0.6235481729383003,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Lista,0.5736087109048515,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Gaztambide,0.49073756410429653,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,El Viso,0.47199506746921943,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Ríos Rosas,0.47083484352350663,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Arapiles,0.46180415697149263,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Ibiza,0.413496716964343,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Piovera,0.40105605722536947,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Los Jerónimos,0.3916684921924534,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Atocha,0.37434630876432395,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Fuente del Berro,0.37295403437944663,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Palos de la Frontera,0.364677949402719,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Castillejos,0.36014235037949505,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Cuatro Caminos,0.35096492031016446,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Nueva España,0.31987536381745857,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Ciudad Jardín,0.31676209614773965,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Guindalera,0.3065407520748081,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Atalaya,0.29062356750308166,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Castilla,0.2612985876862492,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Rejas,0.25859775225130865,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,Delicias,0.24596030929691862,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+C,San Juan Bautista,0.21255103138711073,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+C,Berruguete,0.18514984181622163,3: Quartile 2 (slight gentrification trend)
+C,Hispanoamérica,0.18461872675256016,3: Quartile 2 (slight gentrification trend)
+C,Prosperidad,0.18160268782136726,3: Quartile 2 (slight gentrification trend)
+C,Vallehermoso,0.18139743423450416,3: Quartile 2 (slight gentrification trend)
+C,Valdeacederas,0.1811830880784275,3: Quartile 2 (slight gentrification trend)
+C,El Plantío,0.17584276049781483,3: Quartile 2 (slight gentrification trend)
+C,Bellas Vistas,0.1713086576210627,3: Quartile 2 (slight gentrification trend)
+C,Valdemarín,0.156178731858053,3: Quartile 2 (slight gentrification trend)
+C,Casco Histórico de Barajas,0.15063380343746324,3: Quartile 2 (slight gentrification trend)
+C,Colina,0.1410236193048324,3: Quartile 2 (slight gentrification trend)
+C,Pacífico,0.1404740789540676,3: Quartile 2 (slight gentrification trend)
+C,Ciudad Universitaria,0.13743999997051315,3: Quartile 2 (slight gentrification trend)
+C,Valdefuentes,0.12654841623681706,3: Quartile 2 (slight gentrification trend)
+C,Quintana,0.11630974579989718,3: Quartile 2 (slight gentrification trend)
+C,Legazpi,0.10446265606400736,3: Quartile 2 (slight gentrification trend)
+C,Puerta del Angel,0.1028918061875299,3: Quartile 2 (slight gentrification trend)
+C,Palomas,0.09608398587841796,3: Quartile 2 (slight gentrification trend)
+C,Imperial,0.09032714337858144,3: Quartile 2 (slight gentrification trend)
+C,Chopera,0.08909788202392425,3: Quartile 2 (slight gentrification trend)
+C,Almenara,0.07980015001616475,3: Quartile 2 (slight gentrification trend)
+C,Acacias,0.07817268921237099,3: Quartile 2 (slight gentrification trend)
+C,Comillas,0.0736373450198063,3: Quartile 2 (slight gentrification trend)
+C,Ensanche de Vallecas,0.06525799836157631,3: Quartile 2 (slight gentrification trend)
+C,Adelfas,0.06462731298808308,3: Quartile 2 (slight gentrification trend)
+C,Casa de Campo,0.06384801740376138,3: Quartile 2 (slight gentrification trend)
+C,Niño Jesús,0.05664527117677024,3: Quartile 2 (slight gentrification trend)
+C,El Salvador,0.052587182536821146,3: Quartile 2 (slight gentrification trend)
+C,Mirasierra,0.02251322436845001,3: Quartile 2 (slight gentrification trend)
+C,Valverde,0.018592978035485777,3: Quartile 2 (slight gentrification trend)
+C,La Concepción,0.018364316790860282,3: Quartile 2 (slight gentrification trend)
+C,El Goloso,0.008731854754615445,3: Quartile 2 (slight gentrification trend)
+C,Simancas,0.0017979584391305252,3: Quartile 2 (slight gentrification trend)
+C,Timón,-0.0012830982449372052,3: Quartile 2 (slight gentrification trend)
+C,Aravaca,-0.0014462326318641615,4: Quartile 3+4 (no gentrification dynamic)
+C,San Isidro,-0.01384923950859078,4: Quartile 3+4 (no gentrification dynamic)
+C,San Pascual,-0.02783741428420958,4: Quartile 3+4 (no gentrification dynamic)
+C,Casco Histórico de Vicálvaro,-0.030108779893672773,4: Quartile 3+4 (no gentrification dynamic)
+C,Ventas,-0.031137913342774774,4: Quartile 3+4 (no gentrification dynamic)
+C,Aeropuerto,-0.04137676061121874,4: Quartile 3+4 (no gentrification dynamic)
+C,Opañel,-0.05323066083388532,4: Quartile 3+4 (no gentrification dynamic)
+C,San Diego,-0.05562051522450696,4: Quartile 3+4 (no gentrification dynamic)
+C,Costillares,-0.05674300033440965,4: Quartile 3+4 (no gentrification dynamic)
+C,Horcajo,-0.08034661767578663,4: Quartile 3+4 (no gentrification dynamic)
+C,Pilar,-0.08744408135015919,4: Quartile 3+4 (no gentrification dynamic)
+C,Corralejos,-0.09030297389825892,4: Quartile 3+4 (no gentrification dynamic)
+C,Canillas,-0.0931944761563984,4: Quartile 3+4 (no gentrification dynamic)
+C,Pueblo Nuevo,-0.10554286265673424,4: Quartile 3+4 (no gentrification dynamic)
+C,Pinar del Rey,-0.11614919807923926,4: Quartile 3+4 (no gentrification dynamic)
+C,Valdezarza,-0.11659969930118448,4: Quartile 3+4 (no gentrification dynamic)
+C,Numancia,-0.11879086492250157,4: Quartile 3+4 (no gentrification dynamic)
+C,Arcos,-0.12024613086486567,4: Quartile 3+4 (no gentrification dynamic)
+C,Los Cármenes,-0.12246126647121078,4: Quartile 3+4 (no gentrification dynamic)
+C,Estrella,-0.1360251998170698,4: Quartile 3+4 (no gentrification dynamic)
+C,Fuentelarreina,-0.14001690417428678,4: Quartile 3+4 (no gentrification dynamic)
+C,Canillejas,-0.14767165447104091,4: Quartile 3+4 (no gentrification dynamic)
+C,Campamento,-0.15069995308918394,4: Quartile 3+4 (no gentrification dynamic)
+C,Puerta Bonita,-0.15145364176275167,4: Quartile 3+4 (no gentrification dynamic)
+C,Hellín,-0.1527331698990789,4: Quartile 3+4 (no gentrification dynamic)
+C,Lucero,-0.15840693923491997,4: Quartile 3+4 (no gentrification dynamic)
+C,Santa Eugenia,-0.15966842263754416,4: Quartile 3+4 (no gentrification dynamic)
+C,Vinateros,-0.16003101801007424,4: Quartile 3+4 (no gentrification dynamic)
+C,Fontarrón,-0.16228220216002606,4: Quartile 3+4 (no gentrification dynamic)
+C,Almendrales,-0.1634848306455927,4: Quartile 3+4 (no gentrification dynamic)
+C,Vista Alegre,-0.16507115506850167,4: Quartile 3+4 (no gentrification dynamic)
+C,Peñagrande,-0.16697050431823401,4: Quartile 3+4 (no gentrification dynamic)
+C,Moscardó,-0.17131011088622805,4: Quartile 3+4 (no gentrification dynamic)
+C,"Villaverde Alto, Casco Histórico de Villaverde",-0.17312984894019434,4: Quartile 3+4 (no gentrification dynamic)
+C,Butarque,-0.18985972417875094,4: Quartile 3+4 (no gentrification dynamic)
+C,Aluche,-0.19361863012700506,4: Quartile 3+4 (no gentrification dynamic)
+C,Palomeras Bajas,-0.20323869559475932,4: Quartile 3+4 (no gentrification dynamic)
+C,Abrantes,-0.20544932621385126,4: Quartile 3+4 (no gentrification dynamic)
+C,Cuatro Vientos,-0.2087155033883745,4: Quartile 3+4 (no gentrification dynamic)
+C,Buenavista,-0.2104560280877098,4: Quartile 3+4 (no gentrification dynamic)
+C,Ángeles,-0.21216917732731136,4: Quartile 3+4 (no gentrification dynamic)
+C,Casco Histórico de Vallecas,-0.2180185436681436,4: Quartile 3+4 (no gentrification dynamic)
+C,Alameda de Osuna,-0.2189466383172146,4: Quartile 3+4 (no gentrification dynamic)
+C,Apóstol Santiago,-0.22034979489182732,4: Quartile 3+4 (no gentrification dynamic)
+C,Marroquina,-0.22275158576195814,4: Quartile 3+4 (no gentrification dynamic)
+C,Media Legua,-0.22464202003601041,4: Quartile 3+4 (no gentrification dynamic)
+C,Amposta,-0.22688852428049017,4: Quartile 3+4 (no gentrification dynamic)
+C,La Paz,-0.22768606987996107,4: Quartile 3+4 (no gentrification dynamic)
+C,Zofío,-0.23400441991226467,4: Quartile 3+4 (no gentrification dynamic)
+C,Palomeras Sureste,-0.23769806994671483,4: Quartile 3+4 (no gentrification dynamic)
+C,Valdebernardo,-0.24029226545482865,4: Quartile 3+4 (no gentrification dynamic)
+C,Rosas,-0.24191477825278523,4: Quartile 3+4 (no gentrification dynamic)
+C,Pradolongo,-0.25841009017741823,4: Quartile 3+4 (no gentrification dynamic)
+C,Orcasur,-0.2616472917845992,4: Quartile 3+4 (no gentrification dynamic)
+C,Portazgo,-0.2656721590204781,4: Quartile 3+4 (no gentrification dynamic)
+C,San Fermín,-0.26816451350212006,4: Quartile 3+4 (no gentrification dynamic)
+C,Los Rosales,-0.27753216052771396,4: Quartile 3+4 (no gentrification dynamic)
+C,Águilas,-0.28099909268008194,4: Quartile 3+4 (no gentrification dynamic)
+C,Entrevías,-0.2855430548283577,4: Quartile 3+4 (no gentrification dynamic)
+C,Pavones,-0.3157236905109028,4: Quartile 3+4 (no gentrification dynamic)
+C,San Cristóbal,-0.32071683728058115,4: Quartile 3+4 (no gentrification dynamic)
+C,Valderrivas,-0.33931052760232994,4: Quartile 3+4 (no gentrification dynamic)
+C,El Pardo,-0.36246291261610436,4: Quartile 3+4 (no gentrification dynamic)
+C,Orcasitas,-0.36760302802004885,4: Quartile 3+4 (no gentrification dynamic)
+D,Justicia,0.8887527994497484,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Cortes,0.8551205448386401,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Recoletos,0.8052272559020499,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Universidad,0.7694503191139611,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Embajadores,0.6190772849397744,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Castellana,0.5690202335231567,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Palacio,0.547138217161777,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Atocha,0.5436496844272973,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Trafalgar,0.4790407379158662,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Sol,0.4726885478580972,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Almagro,0.46606531598177064,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Goya,0.45643068331927455,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Argüelles,0.407855533850672,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Lista,0.39071637305199497,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Ríos Rosas,0.37515892581306526,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Los Jerónimos,0.34416275537584223,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Atalaya,0.33429034553583165,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Castillejos,0.29662758655486504,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Arapiles,0.28698442445044997,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Gaztambide,0.2788695401091837,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Cuatro Caminos,0.27277728761128134,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Ibiza,0.25486172226825604,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Palos de la Frontera,0.24027333108920812,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Castilla,0.2210065289231889,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,El Viso,0.21017304153556632,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Piovera,0.19397358905362005,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Ciudad Jardín,0.18921928023733808,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Guindalera,0.16868425207486815,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Hispanoamérica,0.15908336081567084,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Vallehermoso,0.15345842439107726,"1: Quartile 1, elitized at t0 (super-gentrification dynamic)"
+D,Prosperidad,0.149203834884743,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Fuente del Berro,0.1460894213862826,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Casco Histórico de Barajas,0.14395489340421258,"2: Quartile 1, not elitized at t0 (gentrification dynamic)"
+D,Bellas Vistas,0.1353913002980433,3: Quartile 2 (slight gentrification trend)
+D,Berruguete,0.12638652712702145,3: Quartile 2 (slight gentrification trend)
+D,Quintana,0.12000238465282274,3: Quartile 2 (slight gentrification trend)
+D,Delicias,0.11825065679489706,3: Quartile 2 (slight gentrification trend)
+D,Chopera,0.10297457499287477,3: Quartile 2 (slight gentrification trend)
+D,Acacias,0.10087398768831937,3: Quartile 2 (slight gentrification trend)
+D,Valdeacederas,0.10034988747963934,3: Quartile 2 (slight gentrification trend)
+D,Puerta del Angel,0.08808239206460433,3: Quartile 2 (slight gentrification trend)
+D,Valdemarín,0.08567460176466045,3: Quartile 2 (slight gentrification trend)
+D,Ciudad Universitaria,0.08382931972230787,3: Quartile 2 (slight gentrification trend)
+D,Nueva España,0.077598232865157,3: Quartile 2 (slight gentrification trend)
+D,San Juan Bautista,0.07603187213707886,3: Quartile 2 (slight gentrification trend)
+D,Colina,0.07033664322440963,3: Quartile 2 (slight gentrification trend)
+D,Comillas,0.06480517949255978,3: Quartile 2 (slight gentrification trend)
+D,Almenara,0.059505738077851804,3: Quartile 2 (slight gentrification trend)
+D,Pacífico,0.05906440809500672,3: Quartile 2 (slight gentrification trend)
+D,Rejas,0.05199485115788813,3: Quartile 2 (slight gentrification trend)
+D,Legazpi,0.04156121624077484,3: Quartile 2 (slight gentrification trend)
+D,San Diego,0.022893703767529233,3: Quartile 2 (slight gentrification trend)
+D,Niño Jesús,0.020219214372999294,3: Quartile 2 (slight gentrification trend)
+D,Adelfas,0.019191325898778124,3: Quartile 2 (slight gentrification trend)
+D,Pradolongo,0.017098936321104194,3: Quartile 2 (slight gentrification trend)
+D,Imperial,0.01490251571654097,3: Quartile 2 (slight gentrification trend)
+D,Aeropuerto,0.012221583885106536,3: Quartile 2 (slight gentrification trend)
+D,Valdefuentes,0.012067511274899722,3: Quartile 2 (slight gentrification trend)
+D,Ventas,0.011009916206154713,3: Quartile 2 (slight gentrification trend)
+D,Opañel,0.00830003478849322,3: Quartile 2 (slight gentrification trend)
+D,Simancas,0.00452848128663894,3: Quartile 2 (slight gentrification trend)
+D,La Concepción,0.004354135589381145,3: Quartile 2 (slight gentrification trend)
+D,El Plantío,0.0019595039063666497,3: Quartile 2 (slight gentrification trend)
+D,El Salvador,1.3591624366407717e-4,3: Quartile 2 (slight gentrification trend)
+D,Aravaca,-3.3602577905605946e-5,3: Quartile 2 (slight gentrification trend)
+D,Casa de Campo,-0.005007072790992532,3: Quartile 2 (slight gentrification trend)
+D,Ensanche de Vallecas,-0.00780059559951912,4: Quartile 3+4 (no gentrification dynamic)
+D,San Isidro,-0.023429266066426063,4: Quartile 3+4 (no gentrification dynamic)
+D,Moscardó,-0.0314522336093381,4: Quartile 3+4 (no gentrification dynamic)
+D,Almendrales,-0.03890502857862678,4: Quartile 3+4 (no gentrification dynamic)
+D,Cuatro Vientos,-0.04172886228688619,4: Quartile 3+4 (no gentrification dynamic)
+D,Vista Alegre,-0.05017376716654408,4: Quartile 3+4 (no gentrification dynamic)
+D,Abrantes,-0.05033888810665732,4: Quartile 3+4 (no gentrification dynamic)
+D,Hellín,-0.05213329984427059,4: Quartile 3+4 (no gentrification dynamic)
+D,Los Cármenes,-0.05432720980792855,4: Quartile 3+4 (no gentrification dynamic)
+D,Pueblo Nuevo,-0.05503030330654028,4: Quartile 3+4 (no gentrification dynamic)
+D,Ángeles,-0.05967209966359769,4: Quartile 3+4 (no gentrification dynamic)
+D,Puerta Bonita,-0.05998801549376188,4: Quartile 3+4 (no gentrification dynamic)
+D,Horcajo,-0.06162331583014627,4: Quartile 3+4 (no gentrification dynamic)
+D,Orcasur,-0.06417554220203267,4: Quartile 3+4 (no gentrification dynamic)
+D,El Goloso,-0.07254562733618801,4: Quartile 3+4 (no gentrification dynamic)
+D,Valverde,-0.08320101185479396,4: Quartile 3+4 (no gentrification dynamic)
+D,Pilar,-0.08437697364357596,4: Quartile 3+4 (no gentrification dynamic)
+D,Amposta,-0.088989556849505,4: Quartile 3+4 (no gentrification dynamic)
+D,Buenavista,-0.08973538356642924,4: Quartile 3+4 (no gentrification dynamic)
+D,Zofío,-0.09047819570220553,4: Quartile 3+4 (no gentrification dynamic)
+D,Fuentelarreina,-0.09605116992647879,4: Quartile 3+4 (no gentrification dynamic)
+D,San Pascual,-0.09704763432616453,4: Quartile 3+4 (no gentrification dynamic)
+D,Estrella,-0.09852956059058805,4: Quartile 3+4 (no gentrification dynamic)
+D,"Villaverde Alto, Casco Histórico de Villaverde",-0.10071722295770157,4: Quartile 3+4 (no gentrification dynamic)
+D,Fontarrón,-0.10183707914957132,4: Quartile 3+4 (no gentrification dynamic)
+D,Palomas,-0.10457091706777485,4: Quartile 3+4 (no gentrification dynamic)
+D,Costillares,-0.10581738723264844,4: Quartile 3+4 (no gentrification dynamic)
+D,Numancia,-0.10777528244353458,4: Quartile 3+4 (no gentrification dynamic)
+D,Corralejos,-0.1116171322949977,4: Quartile 3+4 (no gentrification dynamic)
+D,Timón,-0.12484892240924671,4: Quartile 3+4 (no gentrification dynamic)
+D,Campamento,-0.13166964617474652,4: Quartile 3+4 (no gentrification dynamic)
+D,Valdezarza,-0.13400154092526556,4: Quartile 3+4 (no gentrification dynamic)
+D,Mirasierra,-0.1407482236471079,4: Quartile 3+4 (no gentrification dynamic)
+D,Lucero,-0.14245277361780423,4: Quartile 3+4 (no gentrification dynamic)
+D,San Cristóbal,-0.1473672910136071,4: Quartile 3+4 (no gentrification dynamic)
+D,Palomeras Sureste,-0.14779630052022308,4: Quartile 3+4 (no gentrification dynamic)
+D,Vinateros,-0.14962544634703367,4: Quartile 3+4 (no gentrification dynamic)
+D,Canillejas,-0.15507615328141386,4: Quartile 3+4 (no gentrification dynamic)
+D,Pinar del Rey,-0.15511761205637362,4: Quartile 3+4 (no gentrification dynamic)
+D,Palomeras Bajas,-0.15860720085047808,4: Quartile 3+4 (no gentrification dynamic)
+D,Canillas,-0.16114237487532032,4: Quartile 3+4 (no gentrification dynamic)
+D,Casco Histórico de Vallecas,-0.162113687335732,4: Quartile 3+4 (no gentrification dynamic)
+D,Peñagrande,-0.1638780899168487,4: Quartile 3+4 (no gentrification dynamic)
+D,Casco Histórico de Vicálvaro,-0.1716384310085429,4: Quartile 3+4 (no gentrification dynamic)
+D,Los Rosales,-0.1753418063782793,4: Quartile 3+4 (no gentrification dynamic)
+D,Butarque,-0.1873155742100069,4: Quartile 3+4 (no gentrification dynamic)
+D,Rosas,-0.19053375094794636,4: Quartile 3+4 (no gentrification dynamic)
+D,Portazgo,-0.19717945219394273,4: Quartile 3+4 (no gentrification dynamic)
+D,La Paz,-0.20829989253314032,4: Quartile 3+4 (no gentrification dynamic)
+D,San Fermín,-0.21426638987568772,4: Quartile 3+4 (no gentrification dynamic)
+D,Aluche,-0.22241474084071233,4: Quartile 3+4 (no gentrification dynamic)
+D,Media Legua,-0.22302161362737344,4: Quartile 3+4 (no gentrification dynamic)
+D,Entrevías,-0.23014526335997498,4: Quartile 3+4 (no gentrification dynamic)
+D,Marroquina,-0.2387636133391327,4: Quartile 3+4 (no gentrification dynamic)
+D,Águilas,-0.24778415756934927,4: Quartile 3+4 (no gentrification dynamic)
+D,Apóstol Santiago,-0.2590108389413785,4: Quartile 3+4 (no gentrification dynamic)
+D,Valdebernardo,-0.2601955928872667,4: Quartile 3+4 (no gentrification dynamic)
+D,Santa Eugenia,-0.26379328889429704,4: Quartile 3+4 (no gentrification dynamic)
+D,Arcos,-0.2701932632731316,4: Quartile 3+4 (no gentrification dynamic)
+D,El Pardo,-0.2891209910933645,4: Quartile 3+4 (no gentrification dynamic)
+D,Orcasitas,-0.3043946928186884,4: Quartile 3+4 (no gentrification dynamic)
+D,Alameda de Osuna,-0.31383523461034357,4: Quartile 3+4 (no gentrification dynamic)
+D,Valderrivas,-0.32085366669705645,4: Quartile 3+4 (no gentrification dynamic)
+D,Pavones,-0.5416838922815517,4: Quartile 3+4 (no gentrification dynamic)
